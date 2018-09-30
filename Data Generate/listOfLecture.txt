@@ -1,0 +1,1000 @@
+000000017618|Embeded Software Programming|B|220,000|Y|60|Deathwing|THE END OF ALL THINGS
+000100017119|Assembly Language|C|780,000|Y|30|Deathwing|None escape their shadow.
+000200019262|Algorithm|D|510,000|Y|30|Alarak|THE DESTROYER
+000300026222|Data Structure|B|550,000|N|60|Medivh|INDOMITABLE
+000400004322|Data Structure|C|740,000|N|30|Maiev|Double A
+000500001918|Computer Architechure|A|140,000|Y|60|Ana Amari|Milk
+000600025630|Graphics|B|590,000|Y|90|Medivh|Milk
+000700002575|Embeded Software Programming|B|800,000|N|90|Ragnaros|None escape their shadow.
+000800025235|File Structure|D|570,000|Y|30|Hanzo Shimada|THE DESTROYER
+000900026977|Computer Architechure|B|70,000|N|30|Deathwing|Milk
+001000002338|C Programing|D|670,000|N|60|Deathwing|INDOMITABLE
+001100018422|File Structure|A|800,000|Y|30|Artanis|THE END OF ALL THINGS
+001200017389|Algorithm|B|320,000|Y|30|Artanis|I AM THE CATACLYSM!
+001300032655|Graphics|D|700,000|Y|60|Ragnaros|THE END OF ALL THINGS
+001400032340|Data Structure|B|630,000|Y|90|Hanzo Shimada|My life for Aiur.
+001500012589|Computer Architechure|A|410,000|N|30|Medivh|My life for Aiur.
+001600013049|C Programing|C|780,000|Y|90|Hanzo Shimada|None escape their shadow.
+001700021776|File Structure|A|670,000|N|30|Ragnaros|THE END OF ALL THINGS
+001800031676|Algorithm|A|550,000|Y|90|Zeratul|Double A
+001900019131|Algorithm|D|710,000|N|30|Medivh|THE DESTROYER
+002000008638|Gososil|D|650,000|N|60|Medivh|I AM DEATHWING
+002100026861|DatBase|C|500,000|Y|30|Zeratul| INEVITABLE
+002200011617|Algorithm|C|20,000|Y|30|Ana Amari| INEVITABLE
+002300003496|Algorithm|D|00,000|Y|30|Maiev|THE END OF ALL THINGS
+002400030276|Data Structure|B|110,000|N|30|Zeratul|None escape their shadow.
+002500011821|Computer Architechure|D|230,000|N|30|Alarak|Milk
+002600013131|Algorithm|A|850,000|Y|30|Deathwing|My life for Aiur.
+002700026364|C Programing|C|420,000|N|60|Ragnaros|None escape their shadow.
+002800002708|DatBase|C|250,000|N|30|Ana Amari|None escape their shadow.
+002900003032|Graphics|C|770,000|Y|30|Ana Amari|THE DESTROYER
+003000008578|Embeded Software Programming|D|720,000|Y|90|Deathwing|THE DESTROYER
+003100014272|File Structure|D|310,000|N|30|Ana Amari|None escape their shadow.
+003200011445|Data Structure|A|670,000|N|30|Alarak|Double A
+003300023799|Computer Architechure|D|570,000|Y|90|Zeratul|None escape their shadow.
+003400000015|Data Structure|B|150,000|Y|60|Ragnaros|INDOMITABLE
+003500021756|Graphics|C|530,000|N|90|Maiev| INEVITABLE
+003600007855|Embeded Software Programming|B|810,000|Y|60|Ragnaros|I AM DEATHWING
+003700028816|Assembly Language|B|590,000|N|30|Ragnaros|Milk
+003800019193|Graphics|A|860,000|Y|30|Deathwing|I AM DEATHWING
+003900001974|Embeded Software Programming|D|170,000|Y|30|Maiev|My life for Aiur.
+004000005771|Computer Architechure|D|30,000|Y|90|Medivh|THE DESTROYER
+004100002478|Graphics|C|670,000|Y|60|Medivh|I AM THE CATACLYSM!
+004200029256|Algorithm|D|800,000|N|90|Ragnaros|Milk
+004300003320|Embeded Software Programming|C|140,000|N|30|Ana Amari|Double A
+004400015952|Embeded Software Programming|B|160,000|Y|60|Alarak|I AM DEATHWING
+004500024406|Assembly Language|B|520,000|N|30|Maiev|I AM DEATHWING
+004600023044|Algorithm|B|430,000|N|60|Deathwing| INEVITABLE
+004700005577|Graphics|D|940,000|N|90|Alarak|None escape their shadow.
+004800013318|Assembly Language|C|610,000|N|60|Ana Amari|Milk
+004900007314|Graphics|C|40,000|Y|90|Genji Shimada|Milk
+005000023094|File Structure|A|50,000|N|60|Artanis|My life for Aiur.
+005100018226|Assembly Language|C|550,000|Y|30|Maiev| INEVITABLE
+005200002486|Computer Architechure|A|300,000|N|30|Maiev| INEVITABLE
+005300024681|Data Structure|B|650,000|Y|90|Genji Shimada|I AM DEATHWING
+005400016102|Gososil|D|870,000|N|30|Ana Amari|THE END OF ALL THINGS
+005500014905|DatBase|D|180,000|N|60|Deathwing|I AM THE CATACLYSM!
+005600017767|Assembly Language|C|30,000|N|60|Artanis|My life for Aiur.
+005700015844|Algorithm|D|320,000|Y|90|Medivh|Double A
+005800018458|C Programing|C|920,000|N|60|Ana Amari|Milk
+005900031721|DatBase|C|870,000|Y|60|Hanzo Shimada|INDOMITABLE
+006000024865|Gososil|A|440,000|N|90|Maiev|I AM THE CATACLYSM!
+006100015369|Algorithm|C|210,000|Y|30|Maiev|Milk
+006200010716|File Structure|B|820,000|N|30|Ana Amari|Milk
+006300003399|Data Structure|D|900,000|N|30|Artanis|None escape their shadow.
+006400019180|File Structure|C|360,000|Y|60|Maiev|INDOMITABLE
+006500021986|Algorithm|D|680,000|Y|90|Alarak|I AM THE CATACLYSM!
+006600003123|C Programing|A|990,000|N|60|Genji Shimada| INEVITABLE
+006700025437|C Programing|C|390,000|N|90|Artanis|THE DESTROYER
+006800025809|File Structure|A|890,000|Y|90|Artanis|THE DESTROYER
+006900031351|DatBase|C|280,000|N|60|Medivh| INEVITABLE
+007000002856|C Programing|D|770,000|Y|90|Ragnaros|THE END OF ALL THINGS
+007100026418|Gososil|A|970,000|N|30|Hanzo Shimada|THE DESTROYER
+007200001239|DatBase|C|890,000|Y|60|Genji Shimada|None escape their shadow.
+007300003278|File Structure|A|420,000|N|30|Genji Shimada|THE END OF ALL THINGS
+007400014017|Computer Architechure|C|300,000|N|30|Ana Amari|THE END OF ALL THINGS
+007500030158|DatBase|D|530,000|N|60|Maiev|Milk
+007600029959|Embeded Software Programming|A|490,000|N|30|Deathwing|INDOMITABLE
+007700025585|Data Structure|D|750,000|N|60|Genji Shimada|My life for Aiur.
+007800004872|Algorithm|B|980,000|N|90|Medivh|My life for Aiur.
+007900024634|File Structure|B|750,000|N|60|Alarak|THE DESTROYER
+008000029543|Data Structure|D|00,000|Y|60|Genji Shimada|None escape their shadow.
+008100019176|DatBase|B|720,000|Y|90|Zeratul|I AM DEATHWING
+008200006149|C Programing|B|70,000|Y|90|Deathwing|THE DESTROYER
+008300027517|C Programing|A|590,000|Y|60|Artanis|My life for Aiur.
+008400012802|Gososil|B|280,000|Y|30|Medivh|I AM THE CATACLYSM!
+008500000185|Gososil|A|360,000|N|60|Maiev|None escape their shadow.
+008600012735|Data Structure|A|630,000|N|90|Maiev|THE END OF ALL THINGS
+008700020639|Computer Architechure|C|130,000|Y|60|Zeratul|I AM DEATHWING
+008800022237|Gososil|D|990,000|N|60|Artanis|I AM DEATHWING
+008900014446|Computer Architechure|C|900,000|N|30|Ragnaros|Milk
+009000016446|Algorithm|A|680,000|N|60|Artanis|THE DESTROYER
+009100015529|C Programing|C|00,000|Y|30|Zeratul|None escape their shadow.
+009200031746|Gososil|C|740,000|Y|30|Artanis|THE END OF ALL THINGS
+009300006415|Computer Architechure|C|370,000|N|30|Genji Shimada|My life for Aiur.
+009400006026|Data Structure|D|680,000|N|60|Alarak|None escape their shadow.
+009500020642|Algorithm|D|90,000|Y|30|Alarak|I AM THE CATACLYSM!
+009600012152|Algorithm|A|610,000|N|30|Zeratul|INDOMITABLE
+009700015778|Data Structure|D|420,000|Y|60|Artanis|None escape their shadow.
+009800032684|Data Structure|D|680,000|Y|60|Maiev|I AM DEATHWING
+009900008594|Assembly Language|D|410,000|Y|30|Hanzo Shimada|I AM THE CATACLYSM!
+010000029511|Gososil|D|240,000|N|30|Ana Amari|Double A
+010100013617|DatBase|D|170,000|Y|60|Zeratul| INEVITABLE
+010200013483|C Programing|C|230,000|Y|30|Maiev| INEVITABLE
+010300014465|File Structure|B|530,000|N|30|Medivh|I AM DEATHWING
+010400015736|DatBase|B|110,000|Y|60|Ana Amari|Double A
+010500000707|Assembly Language|B|300,000|Y|30|Medivh|THE DESTROYER
+010600026255|Algorithm|C|790,000|Y|60|Artanis|Milk
+010700004728|DatBase|B|560,000|Y|60|Alarak|THE END OF ALL THINGS
+010800030737|Graphics|A|930,000|N|60|Maiev|I AM DEATHWING
+010900007521|Computer Architechure|B|330,000|N|60|Artanis|THE DESTROYER
+011000014688|File Structure|C|620,000|Y|90|Maiev|THE END OF ALL THINGS
+011100008318|C Programing|D|810,000|N|30|Genji Shimada|None escape their shadow.
+011200000285|C Programing|D|590,000|N|90|Alarak| INEVITABLE
+011300028690|Gososil|D|10,000|Y|60|Deathwing|I AM DEATHWING
+011400017703|Gososil|B|890,000|N|90|Genji Shimada|My life for Aiur.
+011500018332|Gososil|D|430,000|Y|90|Deathwing|INDOMITABLE
+011600010913|Graphics|C|170,000|Y|60|Artanis|THE END OF ALL THINGS
+011700023006|C Programing|D|590,000|Y|90|Alarak|I AM THE CATACLYSM!
+011800005612|Algorithm|B|960,000|N|60|Artanis|THE END OF ALL THINGS
+011900024793|Data Structure|B|110,000|Y|90|Ragnaros|Double A
+012000015015|C Programing|B|310,000|N|30|Genji Shimada|My life for Aiur.
+012100011725|Algorithm|B|550,000|Y|90|Ana Amari|THE DESTROYER
+012200011189|Embeded Software Programming|B|390,000|N|30|Hanzo Shimada|None escape their shadow.
+012300014653|Embeded Software Programming|B|770,000|N|90|Zeratul| INEVITABLE
+012400027446|Data Structure|A|810,000|Y|30|Alarak|THE END OF ALL THINGS
+012500013032|Computer Architechure|C|210,000|N|30|Artanis|I AM THE CATACLYSM!
+012600031372|Embeded Software Programming|B|580,000|Y|30|Maiev|Double A
+012700004560|Data Structure|A|490,000|Y|30|Medivh|Milk
+012800027223|Assembly Language|D|20,000|Y|60|Ragnaros|None escape their shadow.
+012900009270|Algorithm|A|410,000|Y|90|Zeratul|THE DESTROYER
+013000027256|C Programing|B|480,000|N|30|Ragnaros|Double A
+013100008091|Embeded Software Programming|A|220,000|Y|60|Genji Shimada|INDOMITABLE
+013200023057|Algorithm|C|840,000|N|60|Deathwing|I AM DEATHWING
+013300012479|Gososil|A|220,000|Y|60|Genji Shimada|I AM DEATHWING
+013400022402|File Structure|B|580,000|N|60|Zeratul|Double A
+013500002981|Embeded Software Programming|C|460,000|Y|30|Artanis|None escape their shadow.
+013600020588|Algorithm|B|330,000|Y|90|Maiev| INEVITABLE
+013700031628|Graphics|D|580,000|N|60|Ragnaros|Double A
+013800004528|DatBase|B|880,000|Y|30|Ana Amari|I AM DEATHWING
+013900029430|Embeded Software Programming|D|550,000|N|90|Ana Amari| INEVITABLE
+014000022384|File Structure|A|780,000|Y|90|Deathwing|None escape their shadow.
+014100007076|DatBase|D|910,000|Y|90|Genji Shimada|None escape their shadow.
+014200023820|File Structure|C|940,000|N|90|Ana Amari|Double A
+014300026263|Assembly Language|B|380,000|N|30|Maiev|I AM THE CATACLYSM!
+014400027942|Data Structure|D|660,000|Y|30|Zeratul|INDOMITABLE
+014500007184|Embeded Software Programming|C|540,000|Y|90|Genji Shimada|I AM DEATHWING
+014600029086|Embeded Software Programming|C|840,000|N|30|Hanzo Shimada|I AM DEATHWING
+014700027535|Embeded Software Programming|C|30,000|N|30|Medivh|Milk
+014800000917|Computer Architechure|D|310,000|N|90|Deathwing|Milk
+014900031702|Gososil|C|300,000|Y|90|Hanzo Shimada|Milk
+015000031597|Computer Architechure|C|810,000|N|90|Artanis| INEVITABLE
+015100031462|File Structure|A|460,000|N|60|Medivh|I AM THE CATACLYSM!
+015200000197|Algorithm|C|590,000|N|30|Ragnaros|THE END OF ALL THINGS
+015300011776|Algorithm|B|930,000|N|60|Artanis|THE DESTROYER
+015400006785|C Programing|D|20,000|N|90|Ragnaros|None escape their shadow.
+015500000421|Assembly Language|B|460,000|Y|30|Medivh|Milk
+015600016063|File Structure|B|590,000|N|60|Hanzo Shimada|I AM THE CATACLYSM!
+015700006549|Data Structure|C|330,000|Y|30|Zeratul|Double A
+015800025314|C Programing|D|470,000|N|60|Zeratul|INDOMITABLE
+015900024787|File Structure|A|720,000|Y|30|Medivh|THE END OF ALL THINGS
+016000002954|Algorithm|B|230,000|N|30|Hanzo Shimada|I AM DEATHWING
+016100006558|Assembly Language|A|280,000|Y|60|Zeratul| INEVITABLE
+016200023705|Graphics|A|360,000|N|60|Alarak| INEVITABLE
+016300028024|Graphics|B|440,000|Y|30|Artanis|Milk
+016400010542|Data Structure|B|310,000|Y|60|Artanis|INDOMITABLE
+016500032034|Gososil|B|80,000|N|90|Maiev|INDOMITABLE
+016600000940|Data Structure|A|410,000|N|60|Ana Amari| INEVITABLE
+016700028829|Embeded Software Programming|D|700,000|N|60|Maiev| INEVITABLE
+016800019892|C Programing|A|510,000|Y|30|Ragnaros| INEVITABLE
+016900001833|Data Structure|A|210,000|Y|30|Ragnaros|My life for Aiur.
+017000018470|DatBase|B|890,000|Y|90|Hanzo Shimada|Double A
+017100010056|Algorithm|A|100,000|N|30|Hanzo Shimada|My life for Aiur.
+017200008995|File Structure|A|660,000|Y|30|Ana Amari| INEVITABLE
+017300028348|Embeded Software Programming|B|90,000|Y|30|Deathwing|I AM DEATHWING
+017400003596|C Programing|C|260,000|Y|30|Artanis|I AM DEATHWING
+017500017028|File Structure|D|430,000|N|90|Alarak|None escape their shadow.
+017600018307|Computer Architechure|A|490,000|N|60|Deathwing|THE DESTROYER
+017700024289|Assembly Language|A|900,000|Y|90|Maiev|I AM DEATHWING
+017800011624|Graphics|D|500,000|Y|60|Maiev| INEVITABLE
+017900026454|Graphics|A|710,000|N|30|Genji Shimada|THE DESTROYER
+018000019677|File Structure|D|280,000|N|30|Hanzo Shimada|THE DESTROYER
+018100030370|Graphics|B|780,000|N|90|Artanis|Milk
+018200029249|File Structure|D|140,000|Y|30|Alarak|Double A
+018300011976|C Programing|A|440,000|Y|90|Ana Amari|I AM DEATHWING
+018400014648|Algorithm|D|470,000|Y|60|Ragnaros|I AM DEATHWING
+018500018695|Gososil|A|670,000|Y|60|Medivh|Milk
+018600007328|Computer Architechure|A|220,000|Y|60|Artanis|Double A
+018700009697|Assembly Language|B|710,000|Y|30|Ragnaros|I AM THE CATACLYSM!
+018800001692|DatBase|D|380,000|N|30|Deathwing| INEVITABLE
+018900023831|Assembly Language|C|60,000|Y|30|Ana Amari|THE END OF ALL THINGS
+019000024716|Data Structure|B|10,000|Y|90|Artanis|Double A
+019100019881|Embeded Software Programming|A|760,000|Y|60|Medivh|INDOMITABLE
+019200008977|Gososil|D|520,000|Y|30|Artanis|None escape their shadow.
+019300011738|Algorithm|B|980,000|N|30|Ana Amari|Double A
+019400026125|Computer Architechure|C|960,000|Y|90|Hanzo Shimada|I AM DEATHWING
+019500006953|C Programing|B|380,000|N|90|Deathwing|I AM DEATHWING
+019600028832|Embeded Software Programming|D|630,000|Y|60|Medivh|I AM THE CATACLYSM!
+019700010840|DatBase|C|330,000|Y|30|Maiev|Double A
+019800018731|C Programing|D|40,000|N|30|Deathwing|THE END OF ALL THINGS
+019900030568|DatBase|B|910,000|Y|60|Hanzo Shimada|INDOMITABLE
+020000017744|Data Structure|D|250,000|Y|90|Deathwing|I AM THE CATACLYSM!
+020100013722|Graphics|C|850,000|N|90|Artanis| INEVITABLE
+020200006639|Algorithm|B|430,000|Y|30|Deathwing|THE DESTROYER
+020300016238|Algorithm|C|850,000|Y|60|Zeratul| INEVITABLE
+020400027434|File Structure|A|190,000|N|90|Maiev|THE END OF ALL THINGS
+020500009895|Data Structure|D|830,000|N|60|Maiev|INDOMITABLE
+020600023648|DatBase|C|170,000|Y|30|Maiev|I AM DEATHWING
+020700017476|DatBase|C|930,000|Y|30|Genji Shimada|INDOMITABLE
+020800008244|Embeded Software Programming|A|400,000|Y|30|Ragnaros|Milk
+020900018567|Algorithm|D|430,000|Y|30|Ana Amari|THE END OF ALL THINGS
+021000002183|Algorithm|D|840,000|N|90|Hanzo Shimada|Milk
+021100019185|Embeded Software Programming|D|390,000|N|90|Ana Amari|None escape their shadow.
+021200005752|File Structure|A|740,000|Y|60|Ana Amari|Milk
+021300023107|DatBase|A|650,000|N|90|Hanzo Shimada|None escape their shadow.
+021400002666|Graphics|A|550,000|Y|30|Medivh|Double A
+021500003197|C Programing|D|20,000|N|30|Medivh|THE DESTROYER
+021600029694|C Programing|B|910,000|Y|30|Maiev|I AM DEATHWING
+021700003810|Graphics|A|360,000|N|60|Alarak|None escape their shadow.
+021800016915|Embeded Software Programming|C|930,000|Y|90|Ana Amari|THE DESTROYER
+021900013809|Assembly Language|A|120,000|N|60|Ragnaros|Double A
+022000021196|Computer Architechure|B|800,000|Y|90|Alarak|Double A
+022100003436|C Programing|C|660,000|Y|60|Medivh|THE END OF ALL THINGS
+022200000906|Graphics|D|470,000|Y|90|Ragnaros|THE DESTROYER
+022300026708|Graphics|A|870,000|Y|60|Maiev|Milk
+022400016620|Assembly Language|C|530,000|N|90|Alarak|Milk
+022500028906|Graphics|B|810,000|N|60|Medivh| INEVITABLE
+022600005845|Assembly Language|B|890,000|N|90|Alarak|THE DESTROYER
+022700014510|Graphics|C|320,000|N|30|Medivh| INEVITABLE
+022800016486|Algorithm|C|380,000|N|60|Medivh|THE DESTROYER
+022900018531|Assembly Language|D|300,000|Y|30|Deathwing|THE END OF ALL THINGS
+023000014334|Computer Architechure|C|740,000|N|90|Genji Shimada|My life for Aiur.
+023100012296|Assembly Language|C|350,000|N|30|Alarak|None escape their shadow.
+023200018240|Data Structure|D|870,000|Y|30|Alarak|THE DESTROYER
+023300005855|Assembly Language|D|770,000|Y|90|Genji Shimada|My life for Aiur.
+023400005901|C Programing|A|120,000|N|60|Hanzo Shimada| INEVITABLE
+023500019305|DatBase|A|760,000|N|90|Genji Shimada| INEVITABLE
+023600016260|DatBase|A|990,000|N|90|Ragnaros|My life for Aiur.
+023700021350|Gososil|B|770,000|N|30|Hanzo Shimada|I AM THE CATACLYSM!
+023800022536|Gososil|C|650,000|N|30|Medivh| INEVITABLE
+023900031705|C Programing|A|820,000|Y|30|Medivh|THE END OF ALL THINGS
+024000001850|Gososil|A|990,000|N|30|Deathwing| INEVITABLE
+024100026881|Gososil|B|720,000|Y|60|Alarak|None escape their shadow.
+024200004857|Gososil|A|500,000|Y|90|Alarak|Double A
+024300009824|Computer Architechure|C|70,000|Y|30|Maiev|Double A
+024400028776|Embeded Software Programming|B|630,000|Y|30|Hanzo Shimada|My life for Aiur.
+024500014007|Computer Architechure|D|520,000|Y|90|Deathwing|None escape their shadow.
+024600021479|Algorithm|C|350,000|Y|90|Deathwing|THE END OF ALL THINGS
+024700009223|Computer Architechure|C|490,000|Y|90|Artanis|Milk
+024800016664|Assembly Language|C|190,000|Y|30|Artanis|My life for Aiur.
+024900003985|Data Structure|D|660,000|Y|90|Alarak|I AM DEATHWING
+025000006875|Embeded Software Programming|D|760,000|Y|60|Ragnaros|I AM THE CATACLYSM!
+025100016853|Data Structure|A|10,000|N|60|Medivh|THE END OF ALL THINGS
+025200013137|Embeded Software Programming|D|150,000|Y|90|Deathwing|I AM DEATHWING
+025300014997|DatBase|B|100,000|N|90|Zeratul|Milk
+025400023516|Computer Architechure|B|810,000|N|60|Medivh|My life for Aiur.
+025500016595|Gososil|A|700,000|Y|60|Maiev|INDOMITABLE
+025600029980|Algorithm|A|540,000|Y|90|Zeratul|I AM THE CATACLYSM!
+025700029389|Computer Architechure|C|390,000|N|30|Ana Amari| INEVITABLE
+025800032498|DatBase|D|770,000|Y|60|Artanis|INDOMITABLE
+025900022023|Assembly Language|D|540,000|N|60|Alarak| INEVITABLE
+026000010368|Graphics|B|900,000|N|30|Maiev|My life for Aiur.
+026100026433|File Structure|A|910,000|N|90|Hanzo Shimada|My life for Aiur.
+026200024613|C Programing|C|810,000|Y|60|Ragnaros|Milk
+026300010875|Gososil|D|670,000|Y|60|Genji Shimada|INDOMITABLE
+026400025477|Assembly Language|C|970,000|Y|60|Deathwing|I AM DEATHWING
+026500015096|Data Structure|B|920,000|N|30|Alarak|None escape their shadow.
+026600020350|DatBase|A|930,000|N|30|Ragnaros| INEVITABLE
+026700023351|Gososil|B|110,000|N|60|Genji Shimada|I AM DEATHWING
+026800012339|Embeded Software Programming|D|40,000|Y|90|Zeratul|THE DESTROYER
+026900001274|Embeded Software Programming|D|870,000|N|30|Hanzo Shimada|THE DESTROYER
+027000004356|Computer Architechure|C|330,000|Y|90|Maiev|My life for Aiur.
+027100031041|File Structure|C|80,000|Y|30|Alarak|THE END OF ALL THINGS
+027200003219|Algorithm|B|900,000|Y|30|Medivh|Milk
+027300020559|DatBase|D|400,000|Y|90|Maiev|None escape their shadow.
+027400023744|DatBase|A|450,000|N|30|Deathwing|THE END OF ALL THINGS
+027500002467|Data Structure|B|660,000|Y|90|Genji Shimada|Milk
+027600027308|Graphics|C|250,000|N|60|Maiev|Double A
+027700007168|Gososil|C|710,000|N|30|Ana Amari|INDOMITABLE
+027800024248|C Programing|D|520,000|Y|90|Ragnaros|INDOMITABLE
+027900001381|Assembly Language|B|470,000|N|90|Deathwing| INEVITABLE
+028000012422|Graphics|D|270,000|Y|90|Ragnaros|Milk
+028100023315|Data Structure|D|840,000|N|60|Hanzo Shimada|THE DESTROYER
+028200014070|Graphics|B|30,000|Y|90|Deathwing|Milk
+028300022925|Gososil|A|970,000|Y|60|Medivh| INEVITABLE
+028400014378|File Structure|B|50,000|Y|60|Zeratul|I AM DEATHWING
+028500029843|C Programing|B|340,000|N|60|Hanzo Shimada|THE DESTROYER
+028600031106|Computer Architechure|A|980,000|Y|90|Maiev|I AM THE CATACLYSM!
+028700026405|C Programing|B|540,000|Y|30|Maiev| INEVITABLE
+028800020383|Assembly Language|C|830,000|N|60|Medivh|INDOMITABLE
+028900017285|Assembly Language|C|20,000|N|30|Ana Amari|None escape their shadow.
+029000011874|Gososil|C|250,000|Y|30|Genji Shimada| INEVITABLE
+029100000820|Algorithm|D|680,000|Y|30|Ana Amari|Double A
+029200014573|Embeded Software Programming|A|770,000|Y|90|Medivh|Double A
+029300005875|C Programing|B|160,000|N|60|Ragnaros| INEVITABLE
+029400020896|Graphics|B|880,000|Y|30|Hanzo Shimada|Double A
+029500030403|Gososil|A|480,000|N|90|Ragnaros|Double A
+029600010781|Data Structure|B|190,000|Y|60|Ana Amari|Milk
+029700012772|Data Structure|C|280,000|N|60|Medivh|THE END OF ALL THINGS
+029800021316|DatBase|D|140,000|N|60|Zeratul| INEVITABLE
+029900032473|Gososil|D|530,000|Y|60|Ragnaros|THE DESTROYER
+030000019766|Algorithm|D|600,000|Y|60|Ana Amari| INEVITABLE
+030100019297|Computer Architechure|B|410,000|Y|90|Maiev|My life for Aiur.
+030200005972|C Programing|C|170,000|N|90|Ana Amari| INEVITABLE
+030300019582|DatBase|A|650,000|Y|60|Medivh|Milk
+030400016448|Assembly Language|B|410,000|N|30|Zeratul|Double A
+030500003697|Data Structure|C|450,000|Y|60|Artanis| INEVITABLE
+030600030170|File Structure|B|270,000|N|60|Maiev|THE DESTROYER
+030700001210|DatBase|D|820,000|N|90|Ana Amari|I AM DEATHWING
+030800005444|DatBase|D|220,000|Y|30|Genji Shimada| INEVITABLE
+030900006684|DatBase|B|500,000|N|30|Deathwing|I AM DEATHWING
+031000015069|Gososil|A|650,000|N|90|Medivh|My life for Aiur.
+031100016534|Assembly Language|A|250,000|Y|90|Genji Shimada|None escape their shadow.
+031200021064|Graphics|B|790,000|Y|60|Genji Shimada|My life for Aiur.
+031300000362|Graphics|C|850,000|N|60|Ana Amari|THE END OF ALL THINGS
+031400009830|Graphics|D|350,000|N|60|Hanzo Shimada|THE END OF ALL THINGS
+031500003353|File Structure|A|340,000|N|90|Artanis| INEVITABLE
+031600029015|Assembly Language|D|120,000|N|30|Artanis|THE DESTROYER
+031700019300|Data Structure|B|340,000|N|60|Maiev|I AM THE CATACLYSM!
+031800027772|Gososil|C|960,000|Y|90|Hanzo Shimada|I AM THE CATACLYSM!
+031900027468|Gososil|B|330,000|N|90|Genji Shimada|None escape their shadow.
+032000024694|Algorithm|B|720,000|Y|30|Ana Amari|Double A
+032100029457|Embeded Software Programming|D|970,000|N|90|Maiev|None escape their shadow.
+032200013607|Computer Architechure|B|250,000|N|90|Ragnaros|Milk
+032300020533|Gososil|A|20,000|Y|30|Ana Amari|THE END OF ALL THINGS
+032400000431|Assembly Language|D|330,000|Y|90|Zeratul| INEVITABLE
+032500026490|Assembly Language|C|650,000|Y|60|Ana Amari| INEVITABLE
+032600007279|File Structure|A|230,000|Y|30|Medivh|I AM THE CATACLYSM!
+032700009438|Computer Architechure|B|400,000|Y|90|Zeratul|None escape their shadow.
+032800011017|DatBase|B|490,000|Y|30|Medivh|INDOMITABLE
+032900002981|Computer Architechure|D|790,000|Y|30|Deathwing|Double A
+033000012893|Embeded Software Programming|D|720,000|N|30|Alarak|I AM THE CATACLYSM!
+033100017999|Gososil|B|320,000|N|90|Ragnaros| INEVITABLE
+033200009869|Algorithm|D|330,000|N|60|Deathwing|I AM THE CATACLYSM!
+033300013980|Embeded Software Programming|D|360,000|Y|30|Artanis|THE END OF ALL THINGS
+033400031480|Gososil|C|760,000|N|30|Ana Amari| INEVITABLE
+033500001423|Embeded Software Programming|C|820,000|Y|30|Deathwing|Milk
+033600012865|Data Structure|B|160,000|Y|30|Medivh|My life for Aiur.
+033700013159|Algorithm|A|820,000|N|60|Zeratul|I AM THE CATACLYSM!
+033800028233|Computer Architechure|B|290,000|Y|90|Artanis|Double A
+033900010149|Assembly Language|C|180,000|N|90|Artanis|INDOMITABLE
+034000000047|DatBase|A|160,000|Y|60|Genji Shimada|INDOMITABLE
+034100016652|Computer Architechure|A|850,000|Y|30|Zeratul|THE DESTROYER
+034200030806|Gososil|B|380,000|N|60|Medivh|I AM THE CATACLYSM!
+034300026012|Gososil|A|480,000|Y|90|Ana Amari|INDOMITABLE
+034400013919|Graphics|C|350,000|Y|90|Artanis|INDOMITABLE
+034500004757|Data Structure|C|350,000|Y|90|Deathwing|I AM THE CATACLYSM!
+034600031017|Assembly Language|A|340,000|N|60|Artanis|Milk
+034700027769|Assembly Language|D|710,000|N|60|Ana Amari|I AM DEATHWING
+034800028375|File Structure|A|980,000|N|30|Ragnaros|THE DESTROYER
+034900020233|Data Structure|B|380,000|Y|60|Deathwing|My life for Aiur.
+035000017610|Graphics|A|20,000|N|90|Ragnaros|THE END OF ALL THINGS
+035100023878|Data Structure|B|50,000|N|90|Medivh|None escape their shadow.
+035200014241|Computer Architechure|D|490,000|N|30|Ragnaros|THE END OF ALL THINGS
+035300004465|Computer Architechure|D|550,000|N|30|Ragnaros|None escape their shadow.
+035400009023|Assembly Language|D|100,000|Y|90|Zeratul|I AM DEATHWING
+035500019723|C Programing|B|200,000|N|90|Alarak|THE END OF ALL THINGS
+035600004805|Gososil|C|160,000|N|60|Ragnaros|My life for Aiur.
+035700026836|Graphics|D|340,000|N|90|Hanzo Shimada|I AM DEATHWING
+035800020626|Embeded Software Programming|D|490,000|Y|60|Alarak| INEVITABLE
+035900017614|DatBase|D|400,000|Y|90|Hanzo Shimada|INDOMITABLE
+036000030281|Algorithm|A|150,000|Y|30|Artanis|Milk
+036100022586|Embeded Software Programming|B|750,000|N|90|Ana Amari|INDOMITABLE
+036200031947|C Programing|C|290,000|Y|30|Genji Shimada|THE END OF ALL THINGS
+036300016793|Gososil|D|750,000|N|60|Genji Shimada|THE END OF ALL THINGS
+036400019511|File Structure|D|170,000|N|90|Genji Shimada|I AM DEATHWING
+036500022188|Data Structure|B|660,000|N|90|Maiev|My life for Aiur.
+036600019440|Gososil|C|440,000|Y|30|Alarak|I AM DEATHWING
+036700013427|Gososil|B|240,000|Y|60|Artanis| INEVITABLE
+036800029334|C Programing|C|430,000|N|90|Genji Shimada| INEVITABLE
+036900020272|Algorithm|D|780,000|N|30|Alarak|Double A
+037000022027|Gososil|C|110,000|N|30|Genji Shimada|THE END OF ALL THINGS
+037100000613|Computer Architechure|B|340,000|N|90|Maiev|THE END OF ALL THINGS
+037200015215|Data Structure|A|370,000|N|30|Genji Shimada|THE END OF ALL THINGS
+037300008401|Data Structure|D|40,000|Y|90|Alarak|I AM DEATHWING
+037400010019|DatBase|C|660,000|N|90|Deathwing|Double A
+037500001141|DatBase|D|420,000|N|30|Medivh| INEVITABLE
+037600027849|Data Structure|D|270,000|Y|90|Alarak|THE END OF ALL THINGS
+037700007828|File Structure|B|600,000|N|60|Zeratul|THE END OF ALL THINGS
+037800016193|File Structure|C|970,000|N|30|Ragnaros|Milk
+037900001965|Algorithm|D|40,000|Y|60|Ragnaros|Double A
+038000016556|Data Structure|C|290,000|Y|90|Maiev| INEVITABLE
+038100003971|C Programing|B|100,000|Y|90|Maiev|I AM DEATHWING
+038200004716|Computer Architechure|C|800,000|Y|60|Artanis| INEVITABLE
+038300019733|Algorithm|B|640,000|N|60|Alarak|None escape their shadow.
+038400025889|Data Structure|B|420,000|Y|90|Hanzo Shimada|THE DESTROYER
+038500011941|Data Structure|A|60,000|N|60|Artanis|I AM THE CATACLYSM!
+038600002220|Algorithm|C|740,000|N|90|Deathwing|THE DESTROYER
+038700002484|Gososil|C|490,000|N|30|Deathwing|My life for Aiur.
+038800031790|Computer Architechure|A|240,000|N|90|Ragnaros|My life for Aiur.
+038900011010|Algorithm|A|870,000|N|90|Ana Amari|INDOMITABLE
+039000032265|C Programing|C|960,000|N|30|Artanis| INEVITABLE
+039100026258|Embeded Software Programming|A|770,000|N|30|Medivh|THE DESTROYER
+039200007134|DatBase|D|810,000|Y|30|Ana Amari|INDOMITABLE
+039300010147|Embeded Software Programming|C|790,000|Y|30|Artanis|Double A
+039400017036|Computer Architechure|C|140,000|Y|60|Zeratul|I AM DEATHWING
+039500000183|Data Structure|A|140,000|Y|30|Zeratul|THE DESTROYER
+039600020022|File Structure|D|420,000|Y|60|Artanis|Milk
+039700015247|Data Structure|D|280,000|N|60|Artanis| INEVITABLE
+039800006716|Algorithm|C|480,000|N|60|Medivh|I AM THE CATACLYSM!
+039900026924|Embeded Software Programming|D|170,000|Y|60|Deathwing|None escape their shadow.
+040000004416|Data Structure|C|180,000|Y|30|Hanzo Shimada|THE END OF ALL THINGS
+040100029134|Gososil|B|310,000|N|90|Artanis|Double A
+040200015650|DatBase|D|380,000|Y|30|Deathwing|I AM THE CATACLYSM!
+040300009464|Data Structure|D|260,000|Y|60|Medivh|Double A
+040400022275|Computer Architechure|B|150,000|N|30|Medivh|None escape their shadow.
+040500018793|Embeded Software Programming|C|400,000|N|30|Maiev|THE END OF ALL THINGS
+040600022340|Computer Architechure|D|470,000|N|60|Zeratul|THE DESTROYER
+040700011555|DatBase|C|50,000|Y|90|Artanis|My life for Aiur.
+040800001415|Algorithm|B|830,000|Y|30|Zeratul|I AM DEATHWING
+040900013671|Graphics|B|580,000|Y|90|Medivh| INEVITABLE
+041000002220|Assembly Language|D|520,000|N|60|Artanis|THE END OF ALL THINGS
+041100028342|Computer Architechure|D|970,000|N|30|Zeratul|INDOMITABLE
+041200030421|Algorithm|A|950,000|Y|60|Deathwing|THE END OF ALL THINGS
+041300007376|Embeded Software Programming|B|780,000|N|90|Hanzo Shimada|I AM THE CATACLYSM!
+041400025954|DatBase|A|570,000|N|60|Zeratul| INEVITABLE
+041500019128|C Programing|B|70,000|N|90|Genji Shimada|I AM THE CATACLYSM!
+041600030964|Computer Architechure|A|150,000|N|60|Ana Amari|Milk
+041700023213|DatBase|A|770,000|N|90|Zeratul| INEVITABLE
+041800030060|Data Structure|A|460,000|N|90|Maiev|INDOMITABLE
+041900005681|C Programing|C|550,000|N|30|Hanzo Shimada|My life for Aiur.
+042000019948|Graphics|D|190,000|Y|30|Ragnaros| INEVITABLE
+042100015877|DatBase|B|850,000|Y|60|Genji Shimada|I AM THE CATACLYSM!
+042200013524|Assembly Language|B|590,000|N|30|Hanzo Shimada|INDOMITABLE
+042300006697|File Structure|B|130,000|Y|90|Hanzo Shimada|THE END OF ALL THINGS
+042400011206|DatBase|D|750,000|Y|60|Genji Shimada|I AM DEATHWING
+042500002528|Algorithm|A|860,000|N|60|Medivh|INDOMITABLE
+042600005026|C Programing|C|550,000|Y|90|Genji Shimada|My life for Aiur.
+042700005033|Gososil|C|770,000|Y|90|Artanis|I AM THE CATACLYSM!
+042800015497|File Structure|D|340,000|Y|30|Maiev|None escape their shadow.
+042900030022|DatBase|B|180,000|N|90|Ragnaros| INEVITABLE
+043000030172|Algorithm|C|160,000|Y|90|Artanis|I AM THE CATACLYSM!
+043100013240|DatBase|B|580,000|N|60|Artanis| INEVITABLE
+043200007741|Computer Architechure|C|370,000|N|30|Artanis|THE DESTROYER
+043300011072|Computer Architechure|A|350,000|N|60|Zeratul|Double A
+043400013196|Gososil|D|40,000|Y|90|Zeratul|I AM DEATHWING
+043500008031|Algorithm|C|260,000|Y|60|Hanzo Shimada|None escape their shadow.
+043600025322|Gososil|C|440,000|Y|90|Hanzo Shimada|INDOMITABLE
+043700019157|C Programing|B|830,000|Y|90|Genji Shimada|I AM THE CATACLYSM!
+043800006329|Data Structure|A|80,000|Y|90|Alarak|Double A
+043900028581|Embeded Software Programming|B|630,000|N|90|Maiev|THE DESTROYER
+044000004249|C Programing|C|310,000|Y|30|Ana Amari|I AM DEATHWING
+044100026382|Data Structure|A|560,000|N|60|Alarak|THE END OF ALL THINGS
+044200025964|Graphics|B|640,000|Y|90|Hanzo Shimada| INEVITABLE
+044300012690|DatBase|C|780,000|N|90|Genji Shimada|My life for Aiur.
+044400008530|C Programing|C|980,000|N|60|Maiev|THE END OF ALL THINGS
+044500001777|Embeded Software Programming|B|390,000|N|30|Ana Amari| INEVITABLE
+044600019884|Data Structure|C|310,000|N|30|Zeratul|THE END OF ALL THINGS
+044700026158|Assembly Language|C|310,000|N|60|Genji Shimada|THE END OF ALL THINGS
+044800000795|Data Structure|C|960,000|Y|60|Zeratul| INEVITABLE
+044900009609|Gososil|B|310,000|N|30|Ana Amari|THE DESTROYER
+045000031105|Computer Architechure|D|220,000|Y|90|Artanis|I AM THE CATACLYSM!
+045100000642|Assembly Language|D|970,000|Y|90|Genji Shimada|I AM THE CATACLYSM!
+045200006142|Gososil|C|310,000|Y|60|Deathwing| INEVITABLE
+045300012763|File Structure|C|580,000|Y|90|Maiev| INEVITABLE
+045400001267|Data Structure|A|340,000|N|30|Alarak|THE END OF ALL THINGS
+045500028565|Graphics|C|460,000|N|60|Medivh|None escape their shadow.
+045600013826|Algorithm|C|930,000|Y|30|Deathwing|Milk
+045700003825|Embeded Software Programming|B|260,000|Y|60|Maiev|Double A
+045800000011|Algorithm|B|850,000|Y|60|Alarak|My life for Aiur.
+045900002671|Gososil|A|600,000|N|30|Deathwing|Milk
+046000010031|DatBase|C|270,000|N|30|Ragnaros|Double A
+046100005074|DatBase|D|640,000|Y|90|Genji Shimada|My life for Aiur.
+046200028368|Assembly Language|C|110,000|Y|60|Artanis|My life for Aiur.
+046300009241|File Structure|D|120,000|N|30|Deathwing|None escape their shadow.
+046400010638|Gososil|D|960,000|Y|30|Ana Amari|My life for Aiur.
+046500002950|File Structure|C|880,000|N|90|Zeratul|None escape their shadow.
+046600018763|Computer Architechure|A|60,000|N|60|Hanzo Shimada|I AM THE CATACLYSM!
+046700000410|Computer Architechure|B|940,000|Y|60|Ana Amari|None escape their shadow.
+046800028454|Gososil|D|540,000|Y|90|Deathwing|THE END OF ALL THINGS
+046900013590|Data Structure|A|660,000|Y|60|Alarak|Double A
+047000031618|Gososil|B|450,000|Y|60|Ana Amari|Milk
+047100023546|Data Structure|A|490,000|Y|90|Deathwing| INEVITABLE
+047200007680|Computer Architechure|D|350,000|Y|30|Maiev|THE DESTROYER
+047300017289|Computer Architechure|D|850,000|Y|60|Maiev|Double A
+047400025983|Assembly Language|D|590,000|Y|30|Hanzo Shimada|THE DESTROYER
+047500024642|Algorithm|C|110,000|Y|90|Hanzo Shimada|None escape their shadow.
+047600020514|Computer Architechure|A|960,000|N|60|Hanzo Shimada|THE DESTROYER
+047700024039|Data Structure|B|870,000|N|90|Zeratul|My life for Aiur.
+047800023370|Data Structure|A|650,000|Y|30|Artanis|None escape their shadow.
+047900012153|DatBase|C|620,000|N|90|Maiev|I AM DEATHWING
+048000005014|Gososil|A|810,000|N|60|Medivh|INDOMITABLE
+048100007992|C Programing|B|980,000|Y|90|Artanis| INEVITABLE
+048200009449|Assembly Language|C|310,000|N|30|Zeratul|I AM DEATHWING
+048300024231|Data Structure|A|390,000|Y|60|Maiev|THE DESTROYER
+048400027236|Computer Architechure|B|540,000|N|90|Deathwing|THE END OF ALL THINGS
+048500005765|DatBase|D|670,000|N|90|Zeratul|THE END OF ALL THINGS
+048600032358|Computer Architechure|D|160,000|Y|60|Alarak|THE END OF ALL THINGS
+048700030420|Assembly Language|D|340,000|Y|30|Hanzo Shimada|THE DESTROYER
+048800019090|Gososil|B|310,000|Y|60|Ana Amari|THE END OF ALL THINGS
+048900018133|Computer Architechure|D|940,000|N|60|Zeratul|Milk
+049000006088|Embeded Software Programming|B|620,000|Y|90|Alarak|My life for Aiur.
+049100029961|DatBase|B|910,000|Y|30|Ana Amari|Double A
+049200007722|C Programing|C|470,000|N|60|Medivh|None escape their shadow.
+049300010033|Embeded Software Programming|B|300,000|Y|90|Artanis|My life for Aiur.
+049400005400|File Structure|D|310,000|N|60|Alarak|Double A
+049500019022|Embeded Software Programming|B|370,000|N|60|Ana Amari|I AM THE CATACLYSM!
+049600017203|Gososil|D|910,000|N|90|Alarak|THE DESTROYER
+049700008864|C Programing|B|850,000|N|60|Deathwing|I AM THE CATACLYSM!
+049800003677|Data Structure|A|720,000|Y|60|Maiev|INDOMITABLE
+049900023465|Graphics|D|260,000|N|90|Zeratul|Milk
+050000002998|Algorithm|A|70,000|N|90|Artanis|THE DESTROYER
+050100006186|File Structure|D|170,000|N|60|Deathwing|I AM DEATHWING
+050200003999|Algorithm|C|210,000|Y|30|Artanis|My life for Aiur.
+050300000548|Data Structure|A|240,000|N|60|Zeratul|THE END OF ALL THINGS
+050400015802|Computer Architechure|B|230,000|Y|60|Maiev|None escape their shadow.
+050500023255|Embeded Software Programming|D|70,000|N|60|Artanis|I AM DEATHWING
+050600006375|Gososil|A|340,000|Y|30|Ragnaros|Double A
+050700002758|Computer Architechure|C|560,000|N|30|Deathwing|Milk
+050800004935|C Programing|C|870,000|Y|90|Deathwing|I AM THE CATACLYSM!
+050900012720|Graphics|B|190,000|Y|30|Ana Amari|Milk
+051000007740|Computer Architechure|C|190,000|N|90|Artanis|None escape their shadow.
+051100013975|Embeded Software Programming|C|970,000|N|30|Zeratul|THE END OF ALL THINGS
+051200014949|DatBase|D|340,000|Y|90|Maiev|Double A
+051300022460|Data Structure|B|400,000|Y|30|Alarak|Double A
+051400001958|DatBase|A|30,000|Y|30|Artanis|I AM DEATHWING
+051500015008|DatBase|A|770,000|Y|90|Deathwing|Double A
+051600021789|File Structure|A|540,000|N|60|Artanis|I AM THE CATACLYSM!
+051700031748|DatBase|A|760,000|Y|30|Medivh|I AM THE CATACLYSM!
+051800012589|DatBase|C|350,000|Y|60|Deathwing|THE DESTROYER
+051900016360|Embeded Software Programming|B|100,000|N|30|Medivh|THE END OF ALL THINGS
+052000031094|Graphics|B|850,000|Y|60|Maiev|I AM DEATHWING
+052100016782|DatBase|A|850,000|Y|30|Alarak|None escape their shadow.
+052200027354|Algorithm|A|510,000|N|30|Genji Shimada|INDOMITABLE
+052300025463|Embeded Software Programming|D|660,000|Y|60|Zeratul| INEVITABLE
+052400012665|C Programing|C|240,000|Y|90|Medivh|THE END OF ALL THINGS
+052500016228|Data Structure|D|440,000|N|60|Maiev|THE DESTROYER
+052600030900|C Programing|D|30,000|Y|90|Maiev|None escape their shadow.
+052700013910|Algorithm|A|990,000|N|60|Artanis|INDOMITABLE
+052800031533|Algorithm|D|180,000|Y|60|Maiev|I AM THE CATACLYSM!
+052900000142|File Structure|D|210,000|N|60|Zeratul| INEVITABLE
+053000004803|DatBase|B|990,000|N|90|Hanzo Shimada|I AM DEATHWING
+053100015756|Computer Architechure|C|170,000|N|90|Ragnaros|Milk
+053200018586|Gososil|B|330,000|N|30|Deathwing| INEVITABLE
+053300001042|C Programing|C|00,000|Y|30|Hanzo Shimada|INDOMITABLE
+053400025872|Algorithm|D|660,000|Y|60|Maiev|I AM DEATHWING
+053500029217|Assembly Language|D|500,000|Y|60|Artanis|THE DESTROYER
+053600032712|Graphics|C|910,000|Y|60|Deathwing| INEVITABLE
+053700015610|Embeded Software Programming|C|850,000|Y|90|Hanzo Shimada| INEVITABLE
+053800004002|Assembly Language|C|850,000|Y|90|Hanzo Shimada|THE DESTROYER
+053900016670|Algorithm|B|450,000|N|60|Maiev|INDOMITABLE
+054000031424|Graphics|D|650,000|Y|60|Alarak|I AM DEATHWING
+054100004686|DatBase|B|310,000|Y|90|Genji Shimada|INDOMITABLE
+054200009858|Computer Architechure|A|560,000|Y|90|Zeratul|I AM DEATHWING
+054300002954|Gososil|C|10,000|Y|60|Alarak|My life for Aiur.
+054400001929|Gososil|B|830,000|N|60|Deathwing|THE DESTROYER
+054500024340|DatBase|C|870,000|Y|90|Artanis|Milk
+054600012726|Gososil|D|990,000|N|90|Medivh|I AM THE CATACLYSM!
+054700009837|Graphics|B|390,000|N|90|Deathwing|Milk
+054800026667|DatBase|C|890,000|Y|60|Genji Shimada| INEVITABLE
+054900029270|File Structure|B|810,000|Y|30|Maiev|Double A
+055000011592|Gososil|B|540,000|Y|90|Alarak|I AM THE CATACLYSM!
+055100023248|DatBase|C|30,000|Y|60|Ana Amari| INEVITABLE
+055200021167|Data Structure|A|510,000|Y|60|Ana Amari|My life for Aiur.
+055300003867|Algorithm|C|290,000|N|30|Artanis|I AM DEATHWING
+055400002367|DatBase|A|800,000|N|90|Maiev| INEVITABLE
+055500026042|Computer Architechure|B|480,000|N|60|Alarak|THE END OF ALL THINGS
+055600028956|Embeded Software Programming|C|200,000|Y|90|Deathwing|THE END OF ALL THINGS
+055700027756|Assembly Language|B|700,000|N|90|Hanzo Shimada|I AM THE CATACLYSM!
+055800010660|Computer Architechure|D|230,000|Y|60|Zeratul|My life for Aiur.
+055900030771|Data Structure|C|920,000|N|60|Artanis|I AM DEATHWING
+056000024954|Assembly Language|A|370,000|N|60|Alarak|THE END OF ALL THINGS
+056100013648|C Programing|C|940,000|N|60|Ragnaros|None escape their shadow.
+056200026238|Assembly Language|B|810,000|N|30|Maiev|None escape their shadow.
+056300014147|File Structure|B|330,000|N|90|Deathwing|I AM DEATHWING
+056400013777|Data Structure|B|940,000|Y|30|Deathwing|Milk
+056500002255|Gososil|B|750,000|Y|60|Hanzo Shimada| INEVITABLE
+056600003029|Data Structure|A|750,000|N|30|Maiev|THE DESTROYER
+056700015347|C Programing|C|560,000|Y|60|Zeratul|Milk
+056800029738|Gososil|D|30,000|Y|90|Genji Shimada|I AM THE CATACLYSM!
+056900031217|Algorithm|C|780,000|N|90|Ana Amari|My life for Aiur.
+057000022962|Assembly Language|D|90,000|N|60|Alarak|None escape their shadow.
+057100004938|DatBase|B|370,000|Y|30|Alarak|I AM THE CATACLYSM!
+057200005772|Data Structure|B|960,000|N|60|Ragnaros|INDOMITABLE
+057300004031|DatBase|B|190,000|N|90|Hanzo Shimada|THE DESTROYER
+057400001052|File Structure|C|740,000|Y|30|Alarak|I AM THE CATACLYSM!
+057500015952|Computer Architechure|C|320,000|Y|60|Ana Amari|INDOMITABLE
+057600002816|C Programing|D|560,000|Y|60|Ragnaros|My life for Aiur.
+057700017728|Graphics|C|340,000|Y|60|Artanis|INDOMITABLE
+057800013083|Algorithm|B|510,000|N|60|Artanis|INDOMITABLE
+057900012814|Algorithm|C|570,000|N|30|Genji Shimada|Milk
+058000013197|Embeded Software Programming|B|250,000|Y|30|Medivh|INDOMITABLE
+058100002428|Assembly Language|C|100,000|N|30|Hanzo Shimada|My life for Aiur.
+058200000695|Data Structure|A|690,000|Y|30|Zeratul|THE DESTROYER
+058300022411|File Structure|D|390,000|Y|30|Zeratul|THE END OF ALL THINGS
+058400026171|Graphics|D|250,000|Y|90|Maiev|Milk
+058500016252|DatBase|D|570,000|N|90|Artanis|THE DESTROYER
+058600000761|Algorithm|A|460,000|N|30|Zeratul| INEVITABLE
+058700003024|Computer Architechure|D|670,000|Y|90|Ana Amari|THE DESTROYER
+058800027922|Graphics|C|330,000|N|30|Zeratul|I AM THE CATACLYSM!
+058900015943|DatBase|D|370,000|N|90|Medivh|Milk
+059000014312|Assembly Language|D|540,000|N|60|Hanzo Shimada|I AM THE CATACLYSM!
+059100008163|Embeded Software Programming|A|130,000|N|60|Artanis|Milk
+059200001563|C Programing|A|480,000|Y|90|Deathwing| INEVITABLE
+059300020709|Gososil|A|310,000|N|60|Ana Amari|THE DESTROYER
+059400006540|Algorithm|C|830,000|Y|90|Ana Amari|INDOMITABLE
+059500022734|DatBase|A|330,000|Y|60|Alarak|Double A
+059600025437|C Programing|C|200,000|Y|30|Hanzo Shimada|THE DESTROYER
+059700013919|Data Structure|A|740,000|N|30|Deathwing|I AM THE CATACLYSM!
+059800005102|Assembly Language|B|440,000|N|90|Deathwing|I AM THE CATACLYSM!
+059900028569|DatBase|B|70,000|N|90|Deathwing|Double A
+060000010976|Assembly Language|B|870,000|Y|60|Zeratul|I AM THE CATACLYSM!
+060100008636|Computer Architechure|B|880,000|N|60|Zeratul| INEVITABLE
+060200001813|Graphics|B|00,000|N|60|Genji Shimada|Double A
+060300004426|File Structure|B|980,000|Y|90|Genji Shimada|My life for Aiur.
+060400030381|Data Structure|D|380,000|N|90|Zeratul|Milk
+060500014852|Embeded Software Programming|B|790,000|N|30|Deathwing|Double A
+060600018185|Assembly Language|A|680,000|N|90|Hanzo Shimada|I AM THE CATACLYSM!
+060700024299|Algorithm|D|240,000|Y|90|Artanis|None escape their shadow.
+060800021707|Gososil|C|850,000|N|60|Ana Amari|Double A
+060900006720|Algorithm|D|760,000|Y|60|Medivh|Milk
+061000007123|Data Structure|A|520,000|Y|60|Medivh| INEVITABLE
+061100028035|Graphics|C|230,000|N|30|Ragnaros|THE END OF ALL THINGS
+061200018242|Assembly Language|A|560,000|N|90|Alarak|THE END OF ALL THINGS
+061300020855|DatBase|D|590,000|Y|90|Hanzo Shimada|Milk
+061400016762|DatBase|D|70,000|N|90|Hanzo Shimada|INDOMITABLE
+061500017947|Data Structure|A|840,000|N|90|Artanis|I AM THE CATACLYSM!
+061600017435|Embeded Software Programming|D|350,000|Y|60|Medivh|I AM DEATHWING
+061700025265|Gososil|B|280,000|Y|90|Hanzo Shimada|My life for Aiur.
+061800026630|Computer Architechure|D|110,000|N|60|Zeratul|I AM THE CATACLYSM!
+061900026042|Algorithm|A|860,000|Y|60|Ana Amari|Milk
+062000013661|Gososil|B|890,000|N|30|Artanis|Double A
+062100017654|DatBase|A|390,000|Y|30|Alarak|THE END OF ALL THINGS
+062200013184|Data Structure|D|580,000|Y|60|Artanis|THE DESTROYER
+062300015720|Computer Architechure|C|910,000|N|60|Deathwing|My life for Aiur.
+062400030992|C Programing|A|430,000|N|90|Ana Amari|Milk
+062500025423|Computer Architechure|D|270,000|Y|90|Genji Shimada|THE DESTROYER
+062600015343|Graphics|D|650,000|N|90|Maiev|None escape their shadow.
+062700012845|File Structure|C|810,000|Y|30|Zeratul|I AM THE CATACLYSM!
+062800024893|Assembly Language|D|730,000|N|90|Medivh|THE DESTROYER
+062900007363|DatBase|D|570,000|N|90|Deathwing|THE END OF ALL THINGS
+063000003419|Graphics|D|680,000|N|90|Hanzo Shimada|Double A
+063100007442|Gososil|A|290,000|Y|30|Zeratul|I AM THE CATACLYSM!
+063200013291|Assembly Language|C|390,000|Y|30|Deathwing|I AM THE CATACLYSM!
+063300017499|Algorithm|B|50,000|Y|30|Alarak|THE END OF ALL THINGS
+063400010189|File Structure|C|870,000|N|60|Genji Shimada|I AM DEATHWING
+063500019230|Data Structure|B|550,000|N|60|Artanis|Milk
+063600011042|Data Structure|B|250,000|Y|30|Hanzo Shimada|I AM THE CATACLYSM!
+063700008478|Assembly Language|B|390,000|N|90|Genji Shimada|THE END OF ALL THINGS
+063800032587|DatBase|C|660,000|Y|30|Ana Amari|THE END OF ALL THINGS
+063900032090|Gososil|D|30,000|Y|90|Deathwing| INEVITABLE
+064000029930|File Structure|A|300,000|Y|60|Alarak|THE END OF ALL THINGS
+064100028180|File Structure|D|110,000|Y|90|Artanis|THE END OF ALL THINGS
+064200031712|C Programing|C|320,000|N|30|Maiev|Milk
+064300026828|Embeded Software Programming|D|690,000|Y|90|Ana Amari| INEVITABLE
+064400013132|Embeded Software Programming|D|120,000|N|30|Alarak|None escape their shadow.
+064500023109|Gososil|A|240,000|Y|90|Deathwing|Double A
+064600031121|C Programing|D|660,000|N|90|Ana Amari|THE END OF ALL THINGS
+064700013950|File Structure|C|320,000|Y|90|Genji Shimada|None escape their shadow.
+064800031823|Computer Architechure|C|770,000|Y|90|Hanzo Shimada|THE END OF ALL THINGS
+064900002234|Graphics|C|80,000|N|60|Genji Shimada|I AM THE CATACLYSM!
+065000018536|Computer Architechure|D|40,000|Y|90|Medivh| INEVITABLE
+065100000888|C Programing|C|650,000|N|30|Medivh|Milk
+065200023036|Gososil|B|860,000|Y|90|Genji Shimada|INDOMITABLE
+065300004218|C Programing|C|50,000|Y|90|Ragnaros|Double A
+065400011372|Algorithm|D|660,000|N|60|Medivh|INDOMITABLE
+065500024768|Data Structure|A|200,000|Y|60|Ragnaros|I AM DEATHWING
+065600019033|Assembly Language|B|540,000|Y|60|Ragnaros|None escape their shadow.
+065700031885|Algorithm|B|480,000|Y|60|Ragnaros|THE DESTROYER
+065800023973|DatBase|D|920,000|Y|30|Zeratul|INDOMITABLE
+065900021344|C Programing|B|730,000|N|90|Ana Amari|THE DESTROYER
+066000016241|Computer Architechure|A|150,000|N|90|Zeratul|Milk
+066100019452|Computer Architechure|C|210,000|Y|30|Artanis|Milk
+066200002076|DatBase|A|770,000|N|60|Genji Shimada|THE END OF ALL THINGS
+066300021600|Data Structure|A|200,000|N|90|Deathwing|I AM DEATHWING
+066400008009|Graphics|D|550,000|Y|90|Alarak|I AM THE CATACLYSM!
+066500029134|Algorithm|A|950,000|N|30|Zeratul|Double A
+066600019416|Gososil|A|340,000|N|60|Genji Shimada|Milk
+066700020678|File Structure|A|720,000|Y|60|Hanzo Shimada|None escape their shadow.
+066800017387|DatBase|D|150,000|Y|30|Ragnaros|I AM THE CATACLYSM!
+066900021771|File Structure|B|950,000|Y|30|Hanzo Shimada|THE END OF ALL THINGS
+067000015585|Data Structure|A|310,000|N|30|Ragnaros|Double A
+067100010652|Embeded Software Programming|D|660,000|Y|60|Artanis|I AM THE CATACLYSM!
+067200031582|Embeded Software Programming|C|550,000|N|60|Zeratul| INEVITABLE
+067300020667|Assembly Language|A|660,000|Y|60|Ana Amari|INDOMITABLE
+067400025408|File Structure|B|200,000|Y|90|Deathwing|I AM THE CATACLYSM!
+067500013290|Algorithm|A|220,000|Y|30|Medivh|None escape their shadow.
+067600001962|Gososil|C|550,000|Y|30|Zeratul| INEVITABLE
+067700013287|File Structure|B|700,000|N|60|Ana Amari| INEVITABLE
+067800015100|Data Structure|C|410,000|N|90|Genji Shimada|I AM DEATHWING
+067900014518|C Programing|D|800,000|N|60|Deathwing|My life for Aiur.
+068000007896|DatBase|B|150,000|Y|30|Genji Shimada|My life for Aiur.
+068100016791|Assembly Language|D|910,000|Y|90|Medivh|I AM DEATHWING
+068200013341|DatBase|C|210,000|Y|90|Zeratul|I AM THE CATACLYSM!
+068300029962|Algorithm|A|680,000|Y|60|Zeratul|Double A
+068400027374|Graphics|B|860,000|Y|30|Genji Shimada|INDOMITABLE
+068500012497|Data Structure|A|670,000|Y|60|Maiev|I AM THE CATACLYSM!
+068600012972|DatBase|D|380,000|N|90|Medivh| INEVITABLE
+068700006637|Data Structure|D|650,000|Y|30|Hanzo Shimada| INEVITABLE
+068800002551|Computer Architechure|B|410,000|N|60|Genji Shimada|My life for Aiur.
+068900011423|Assembly Language|D|200,000|Y|60|Ana Amari| INEVITABLE
+069000003760|Graphics|A|580,000|Y|30|Deathwing|Double A
+069100019560|Embeded Software Programming|A|50,000|N|60|Ragnaros| INEVITABLE
+069200003576|Computer Architechure|B|80,000|Y|60|Alarak|My life for Aiur.
+069300021512|Graphics|B|960,000|N|30|Medivh|THE DESTROYER
+069400005169|DatBase|B|340,000|Y|30|Ana Amari|I AM DEATHWING
+069500009601|Gososil|D|60,000|Y|90|Zeratul|Double A
+069600031995|Embeded Software Programming|B|630,000|Y|30|Maiev|Double A
+069700014869|Computer Architechure|A|530,000|Y|60|Ragnaros|My life for Aiur.
+069800000824|Data Structure|C|380,000|Y|30|Zeratul|I AM DEATHWING
+069900012866|Gososil|A|770,000|Y|30|Medivh|THE END OF ALL THINGS
+070000020743|Algorithm|B|60,000|N|30|Genji Shimada|I AM DEATHWING
+070100026060|Embeded Software Programming|B|120,000|Y|30|Zeratul|I AM THE CATACLYSM!
+070200004043|Gososil|D|930,000|N|60|Alarak|Double A
+070300029619|Algorithm|D|420,000|Y|30|Hanzo Shimada|I AM THE CATACLYSM!
+070400030757|Graphics|B|880,000|Y|90|Maiev|THE END OF ALL THINGS
+070500021047|DatBase|A|40,000|Y|30|Alarak|Milk
+070600025077|C Programing|A|130,000|Y|30|Genji Shimada|I AM THE CATACLYSM!
+070700024283|File Structure|B|120,000|N|90|Alarak| INEVITABLE
+070800021596|Gososil|B|150,000|Y|90|Artanis|Milk
+070900028254|Algorithm|B|550,000|N|90|Hanzo Shimada|I AM DEATHWING
+071000005563|File Structure|B|960,000|N|30|Maiev| INEVITABLE
+071100023746|Computer Architechure|A|570,000|Y|60|Alarak|THE DESTROYER
+071200015284|Algorithm|B|90,000|Y|60|Alarak|THE DESTROYER
+071300007495|Data Structure|B|390,000|N|30|Genji Shimada|THE DESTROYER
+071400015143|Embeded Software Programming|C|910,000|Y|90|Medivh|My life for Aiur.
+071500019056|Data Structure|B|910,000|Y|90|Artanis|I AM DEATHWING
+071600030773|C Programing|B|510,000|N|90|Deathwing|Milk
+071700013820|Gososil|C|850,000|N|30|Ana Amari|None escape their shadow.
+071800022080|Gososil|D|380,000|Y|90|Deathwing| INEVITABLE
+071900030958|C Programing|B|870,000|Y|90|Ana Amari|Double A
+072000018408|Gososil|B|360,000|Y|30|Maiev|THE DESTROYER
+072100000901|DatBase|C|410,000|Y|90|Alarak|I AM THE CATACLYSM!
+072200024334|C Programing|A|600,000|N|30|Maiev|I AM THE CATACLYSM!
+072300011587|Gososil|C|50,000|N|60|Maiev|INDOMITABLE
+072400023764|Assembly Language|C|820,000|Y|60|Genji Shimada| INEVITABLE
+072500017640|Algorithm|D|750,000|N|90|Zeratul|My life for Aiur.
+072600016794|File Structure|C|670,000|Y|60|Hanzo Shimada|THE END OF ALL THINGS
+072700008311|Embeded Software Programming|C|200,000|N|30|Ragnaros|THE END OF ALL THINGS
+072800023809|DatBase|C|270,000|Y|60|Ana Amari| INEVITABLE
+072900011567|Embeded Software Programming|D|740,000|N|60|Hanzo Shimada| INEVITABLE
+073000024043|File Structure|D|570,000|Y|60|Genji Shimada|THE END OF ALL THINGS
+073100032659|Assembly Language|A|660,000|N|60|Alarak|None escape their shadow.
+073200025208|Algorithm|C|600,000|N|90|Artanis|THE END OF ALL THINGS
+073300025442|C Programing|B|480,000|N|90|Ana Amari| INEVITABLE
+073400002057|Computer Architechure|B|470,000|Y|30|Alarak|I AM DEATHWING
+073500027549|Graphics|D|930,000|Y|30|Deathwing|None escape their shadow.
+073600031552|Embeded Software Programming|D|250,000|N|90|Deathwing|None escape their shadow.
+073700000647|Graphics|B|230,000|Y|60|Ana Amari|INDOMITABLE
+073800002045|Graphics|C|730,000|N|90|Ragnaros|INDOMITABLE
+073900031136|DatBase|B|700,000|N|90|Artanis|I AM THE CATACLYSM!
+074000010593|DatBase|D|860,000|N|30|Artanis| INEVITABLE
+074100006568|DatBase|C|120,000|Y|60|Ana Amari|My life for Aiur.
+074200006606|DatBase|A|900,000|Y|90|Ragnaros|THE DESTROYER
+074300012961|Embeded Software Programming|B|570,000|N|90|Maiev|I AM DEATHWING
+074400025316|Graphics|A|910,000|Y|90|Artanis|THE DESTROYER
+074500011212|Assembly Language|C|830,000|Y|60|Deathwing|I AM DEATHWING
+074600028036|DatBase|B|760,000|Y|30|Medivh|THE END OF ALL THINGS
+074700005034|Assembly Language|D|620,000|N|30|Artanis|Milk
+074800004560|Computer Architechure|B|430,000|N|90|Medivh|THE DESTROYER
+074900012284|Computer Architechure|A|230,000|N|90|Alarak|My life for Aiur.
+075000010024|Gososil|D|610,000|N|90|Hanzo Shimada|INDOMITABLE
+075100003522|Gososil|D|160,000|Y|90|Artanis|I AM THE CATACLYSM!
+075200005165|File Structure|C|990,000|N|60|Alarak|My life for Aiur.
+075300004415|Gososil|A|60,000|Y|60|Ragnaros|None escape their shadow.
+075400024257|Assembly Language|B|580,000|Y|90|Artanis|My life for Aiur.
+075500001522|Embeded Software Programming|B|690,000|Y|90|Artanis|INDOMITABLE
+075600015364|C Programing|C|670,000|N|90|Maiev| INEVITABLE
+075700011933|DatBase|C|900,000|Y|60|Alarak|Milk
+075800008279|Gososil|D|390,000|Y|30|Maiev|THE DESTROYER
+075900021825|C Programing|B|230,000|Y|30|Deathwing| INEVITABLE
+076000020316|Embeded Software Programming|D|750,000|Y|90|Genji Shimada| INEVITABLE
+076100023326|DatBase|D|560,000|Y|90|Ragnaros|I AM DEATHWING
+076200027635|Data Structure|B|240,000|Y|90|Zeratul|I AM DEATHWING
+076300018615|Graphics|D|30,000|Y|60|Ana Amari|THE DESTROYER
+076400002109|Gososil|A|70,000|Y|30|Zeratul|THE DESTROYER
+076500024011|Embeded Software Programming|B|360,000|N|60|Zeratul|My life for Aiur.
+076600013723|Algorithm|D|890,000|N|60|Deathwing|I AM THE CATACLYSM!
+076700008540|C Programing|A|480,000|Y|60|Hanzo Shimada|THE END OF ALL THINGS
+076800005295|Embeded Software Programming|B|300,000|Y|60|Ragnaros|My life for Aiur.
+076900029099|DatBase|B|820,000|N|30|Ragnaros|INDOMITABLE
+077000025946|Algorithm|B|610,000|Y|90|Maiev|None escape their shadow.
+077100005177|Gososil|C|240,000|N|30|Ana Amari|Milk
+077200005819|Assembly Language|C|660,000|N|90|Deathwing| INEVITABLE
+077300017862|Gososil|D|10,000|N|30|Medivh| INEVITABLE
+077400022325|C Programing|D|890,000|Y|90|Ragnaros|I AM THE CATACLYSM!
+077500019029|Data Structure|C|770,000|Y|30|Deathwing|None escape their shadow.
+077600009320|Gososil|D|890,000|Y|90|Genji Shimada|Double A
+077700032037|Data Structure|A|500,000|N|30|Deathwing|I AM DEATHWING
+077800023350|C Programing|B|730,000|N|90|Medivh|Milk
+077900024760|Data Structure|B|450,000|Y|60|Ana Amari|None escape their shadow.
+078000018367|Computer Architechure|B|600,000|Y|30|Hanzo Shimada|THE DESTROYER
+078100011983|Computer Architechure|C|90,000|Y|30|Alarak|I AM DEATHWING
+078200013668|Computer Architechure|D|370,000|Y|30|Artanis|I AM THE CATACLYSM!
+078300026731|Graphics|B|140,000|Y|90|Artanis| INEVITABLE
+078400032454|Algorithm|C|940,000|Y|90|Zeratul|THE DESTROYER
+078500026060|Algorithm|D|420,000|Y|90|Ana Amari|None escape their shadow.
+078600007623|Computer Architechure|C|850,000|N|30|Zeratul|None escape their shadow.
+078700026229|Graphics|A|600,000|Y|90|Ana Amari|INDOMITABLE
+078800015239|Data Structure|D|570,000|N|90|Deathwing|My life for Aiur.
+078900008485|Data Structure|B|690,000|Y|60|Medivh|I AM THE CATACLYSM!
+079000016488|C Programing|A|800,000|N|90|Genji Shimada|Double A
+079100021470|C Programing|A|770,000|N|90|Genji Shimada|THE DESTROYER
+079200025610|Embeded Software Programming|B|710,000|Y|30|Artanis|None escape their shadow.
+079300021473|File Structure|C|260,000|N|30|Maiev|My life for Aiur.
+079400015694|Data Structure|C|670,000|Y|60|Alarak|Milk
+079500007599|Assembly Language|D|480,000|Y|60|Hanzo Shimada|I AM DEATHWING
+079600021077|Data Structure|C|90,000|Y|60|Hanzo Shimada|Double A
+079700025864|Assembly Language|B|360,000|N|30|Alarak|Milk
+079800010369|Data Structure|B|140,000|Y|30|Ragnaros|None escape their shadow.
+079900009455|Computer Architechure|A|40,000|N|30|Ragnaros|THE END OF ALL THINGS
+080000021618|File Structure|A|310,000|N|30|Artanis|I AM THE CATACLYSM!
+080100012195|Data Structure|C|120,000|N|60|Alarak|Milk
+080200002570|Graphics|D|730,000|N|60|Ragnaros|Milk
+080300016038|DatBase|D|20,000|Y|60|Alarak|THE END OF ALL THINGS
+080400011369|File Structure|B|490,000|Y|90|Hanzo Shimada|INDOMITABLE
+080500000697|Algorithm|A|180,000|N|60|Alarak| INEVITABLE
+080600024048|Gososil|C|200,000|Y|90|Medivh|Milk
+080700013276|Assembly Language|A|140,000|Y|30|Maiev|I AM THE CATACLYSM!
+080800004160|Graphics|D|990,000|Y|60|Medivh|None escape their shadow.
+080900008530|Data Structure|B|380,000|Y|60|Hanzo Shimada|Double A
+081000005179|Algorithm|B|780,000|N|30|Zeratul|INDOMITABLE
+081100016794|File Structure|C|670,000|Y|60|Alarak|Milk
+081200010753|Algorithm|A|960,000|Y|90|Genji Shimada|THE END OF ALL THINGS
+081300017014|DatBase|A|400,000|Y|30|Ragnaros| INEVITABLE
+081400004340|Algorithm|D|610,000|Y|60|Medivh|None escape their shadow.
+081500006375|Embeded Software Programming|D|430,000|Y|30|Medivh|Double A
+081600006068|Gososil|C|490,000|N|30|Ragnaros|Milk
+081700004398|Graphics|B|830,000|Y|60|Medivh|I AM THE CATACLYSM!
+081800011298|Assembly Language|C|350,000|N|90|Hanzo Shimada|Milk
+081900024268|DatBase|D|400,000|Y|60|Zeratul|Double A
+082000027487|Gososil|A|500,000|Y|30|Hanzo Shimada| INEVITABLE
+082100011393|File Structure|A|80,000|N|30|Alarak| INEVITABLE
+082200012749|C Programing|B|170,000|N|90|Ragnaros|THE DESTROYER
+082300011344|Data Structure|A|110,000|N|60|Ana Amari|THE END OF ALL THINGS
+082400011020|Assembly Language|C|430,000|Y|90|Ana Amari| INEVITABLE
+082500010104|Gososil|C|790,000|Y|90|Genji Shimada| INEVITABLE
+082600025085|Assembly Language|A|150,000|Y|30|Medivh|None escape their shadow.
+082700003707|Algorithm|D|640,000|N|60|Genji Shimada|I AM THE CATACLYSM!
+082800020674|File Structure|A|280,000|N|90|Maiev|I AM THE CATACLYSM!
+082900002330|Data Structure|B|120,000|Y|90|Ana Amari|Milk
+083000028859|Gososil|D|520,000|Y|60|Medivh|Milk
+083100001621|Gososil|A|230,000|N|60|Hanzo Shimada|My life for Aiur.
+083200019082|Embeded Software Programming|C|560,000|Y|30|Artanis|My life for Aiur.
+083300019567|DatBase|C|110,000|N|90|Deathwing|I AM DEATHWING
+083400001550|Embeded Software Programming|C|420,000|N|30|Zeratul| INEVITABLE
+083500002279|Assembly Language|D|680,000|Y|90|Alarak|Milk
+083600031339|Algorithm|A|330,000|Y|90|Ragnaros|INDOMITABLE
+083700024703|Computer Architechure|B|270,000|Y|60|Maiev|My life for Aiur.
+083800015871|Graphics|B|470,000|Y|90|Deathwing|Milk
+083900032568|Data Structure|B|620,000|N|90|Artanis|THE END OF ALL THINGS
+084000013933|Data Structure|C|490,000|Y|30|Deathwing|None escape their shadow.
+084100010323|Data Structure|D|740,000|N|90|Maiev|Milk
+084200010389|Computer Architechure|A|520,000|N|90|Artanis|THE END OF ALL THINGS
+084300018000|File Structure|A|940,000|N|90|Maiev|My life for Aiur.
+084400018584|Gososil|A|810,000|N|30|Maiev|I AM DEATHWING
+084500031474|File Structure|C|780,000|Y|90|Maiev|I AM THE CATACLYSM!
+084600018904|File Structure|D|970,000|N|30|Alarak|I AM DEATHWING
+084700012088|Graphics|C|00,000|Y|90|Genji Shimada|My life for Aiur.
+084800028405|Algorithm|D|280,000|Y|60|Deathwing|None escape their shadow.
+084900009060|Computer Architechure|A|200,000|Y|60|Hanzo Shimada|Milk
+085000006608|DatBase|D|690,000|Y|90|Zeratul|I AM THE CATACLYSM!
+085100032503|File Structure|B|400,000|N|90|Medivh| INEVITABLE
+085200023435|Computer Architechure|B|400,000|Y|60|Artanis|Double A
+085300024754|Computer Architechure|D|30,000|Y|60|Ana Amari|Milk
+085400001158|File Structure|C|820,000|N|90|Ana Amari|INDOMITABLE
+085500028309|Gososil|D|900,000|Y|60|Zeratul|THE DESTROYER
+085600013410|File Structure|D|870,000|Y|90|Maiev|I AM THE CATACLYSM!
+085700026083|File Structure|B|810,000|Y|60|Medivh|I AM DEATHWING
+085800027137|Data Structure|C|980,000|N|60|Alarak|THE DESTROYER
+085900011035|Embeded Software Programming|D|490,000|Y|60|Genji Shimada|None escape their shadow.
+086000004995|Gososil|C|940,000|N|60|Genji Shimada|THE END OF ALL THINGS
+086100023039|Graphics|B|600,000|Y|30|Medivh|Double A
+086200007753|C Programing|B|660,000|N|60|Medivh| INEVITABLE
+086300021904|Computer Architechure|A|670,000|N|90|Deathwing|My life for Aiur.
+086400001781|File Structure|A|370,000|N|60|Zeratul|THE DESTROYER
+086500022543|Graphics|C|370,000|N|30|Genji Shimada|Milk
+086600026983|Gososil|B|260,000|Y|90|Ana Amari|My life for Aiur.
+086700000764|Algorithm|A|500,000|Y|90|Deathwing|None escape their shadow.
+086800004288|Assembly Language|D|120,000|N|90|Medivh|Double A
+086900028441|Assembly Language|C|240,000|Y|30|Maiev|Double A
+087000001890|Computer Architechure|A|970,000|N|30|Ana Amari|I AM DEATHWING
+087100015464|Embeded Software Programming|C|190,000|Y|60|Alarak|None escape their shadow.
+087200009965|Graphics|B|350,000|Y|60|Maiev|None escape their shadow.
+087300008744|Assembly Language|A|890,000|N|60|Maiev|THE DESTROYER
+087400010306|Computer Architechure|A|250,000|N|60|Hanzo Shimada|INDOMITABLE
+087500032475|Gososil|C|850,000|N|30|Hanzo Shimada|THE DESTROYER
+087600013187|Assembly Language|A|770,000|N|60|Ragnaros| INEVITABLE
+087700026689|Data Structure|A|520,000|N|90|Hanzo Shimada|Milk
+087800028688|Data Structure|A|40,000|Y|30|Hanzo Shimada|I AM THE CATACLYSM!
+087900015197|Gososil|A|140,000|Y|90|Maiev|THE END OF ALL THINGS
+088000005258|Data Structure|D|910,000|N|90|Ana Amari|INDOMITABLE
+088100011374|File Structure|C|520,000|Y|30|Artanis|Milk
+088200030419|Embeded Software Programming|D|510,000|N|60|Ana Amari|THE DESTROYER
+088300022262|Algorithm|A|200,000|N|60|Hanzo Shimada| INEVITABLE
+088400007179|Gososil|C|890,000|N|90|Ana Amari|My life for Aiur.
+088500019894|Assembly Language|C|820,000|Y|90|Artanis|Milk
+088600018579|File Structure|D|20,000|N|90|Alarak|Milk
+088700010927|File Structure|C|400,000|N|90|Ragnaros|INDOMITABLE
+088800004108|Assembly Language|B|990,000|Y|90|Hanzo Shimada|I AM THE CATACLYSM!
+088900007970|Assembly Language|A|900,000|N|90|Deathwing| INEVITABLE
+089000025944|Graphics|D|770,000|N|60|Medivh|I AM THE CATACLYSM!
+089100000911|Computer Architechure|C|300,000|Y|90|Maiev|THE END OF ALL THINGS
+089200010904|C Programing|A|690,000|Y|90|Ana Amari|THE END OF ALL THINGS
+089300026552|Computer Architechure|B|80,000|Y|90|Ana Amari|Double A
+089400016683|Embeded Software Programming|D|520,000|Y|60|Ana Amari|INDOMITABLE
+089500008862|Algorithm|B|660,000|N|60|Deathwing|INDOMITABLE
+089600006580|Gososil|D|340,000|Y|60|Maiev|I AM DEATHWING
+089700025218|Algorithm|D|560,000|N|90|Medivh|My life for Aiur.
+089800017427|Assembly Language|D|220,000|N|60|Zeratul|I AM DEATHWING
+089900015589|DatBase|B|440,000|N|90|Medivh|I AM THE CATACLYSM!
+090000032618|C Programing|C|160,000|N|90|Medivh|None escape their shadow.
+090100016008|File Structure|D|700,000|N|30|Medivh|THE DESTROYER
+090200018969|Embeded Software Programming|D|680,000|N|30|Medivh| INEVITABLE
+090300031595|Computer Architechure|D|110,000|N|60|Artanis|THE END OF ALL THINGS
+090400029121|Algorithm|B|890,000|Y|90|Zeratul|Double A
+090500007889|Data Structure|C|450,000|Y|90|Genji Shimada|Milk
+090600009028|C Programing|D|260,000|Y|30|Ana Amari|None escape their shadow.
+090700031545|Graphics|A|720,000|Y|60|Ragnaros|Milk
+090800031426|Gososil|A|460,000|Y|60|Medivh|Double A
+090900006757|Embeded Software Programming|C|900,000|N|90|Medivh|THE END OF ALL THINGS
+091000005020|DatBase|A|160,000|N|90|Hanzo Shimada|I AM THE CATACLYSM!
+091100019797|C Programing|C|470,000|N|60|Zeratul|My life for Aiur.
+091200006259|Assembly Language|D|700,000|Y|30|Medivh| INEVITABLE
+091300015436|Embeded Software Programming|B|730,000|N|60|Medivh|Milk
+091400021289|Graphics|A|780,000|Y|90|Medivh|My life for Aiur.
+091500030409|C Programing|D|440,000|N|90|Artanis|I AM DEATHWING
+091600015582|Embeded Software Programming|D|630,000|N|60|Ana Amari|My life for Aiur.
+091700000910|Data Structure|B|100,000|N|90|Hanzo Shimada|I AM THE CATACLYSM!
+091800003572|DatBase|A|70,000|Y|30|Ragnaros|My life for Aiur.
+091900028829|DatBase|B|590,000|Y|30|Zeratul|None escape their shadow.
+092000019979|Graphics|C|750,000|Y|30|Ana Amari|Milk
+092100025396|Assembly Language|A|400,000|Y|90|Deathwing|I AM DEATHWING
+092200025604|Graphics|B|480,000|N|60|Zeratul|I AM THE CATACLYSM!
+092300010199|Computer Architechure|C|30,000|N|30|Deathwing|Double A
+092400009728|Computer Architechure|B|150,000|Y|60|Alarak|Double A
+092500016966|DatBase|B|200,000|N|30|Zeratul|I AM DEATHWING
+092600026977|Data Structure|B|370,000|Y|60|Hanzo Shimada|THE END OF ALL THINGS
+092700032129|Gososil|B|810,000|N|30|Hanzo Shimada|None escape their shadow.
+092800004807|DatBase|B|430,000|N|60|Alarak|Double A
+092900031690|Assembly Language|D|950,000|N|60|Artanis|INDOMITABLE
+093000009748|DatBase|C|940,000|Y|30|Hanzo Shimada|THE DESTROYER
+093100018082|File Structure|C|450,000|N|60|Zeratul|Double A
+093200022120|C Programing|A|390,000|Y|60|Genji Shimada|I AM DEATHWING
+093300024266|Embeded Software Programming|A|950,000|Y|60|Deathwing|INDOMITABLE
+093400005668|Gososil|C|230,000|N|90|Maiev|None escape their shadow.
+093500019523|Computer Architechure|A|30,000|Y|60|Medivh|Double A
+093600009961|DatBase|A|30,000|Y|90|Artanis|None escape their shadow.
+093700011853|C Programing|D|360,000|N|60|Artanis|None escape their shadow.
+093800010649|C Programing|D|510,000|Y|60|Artanis|None escape their shadow.
+093900019307|Algorithm|B|150,000|N|30|Zeratul|I AM THE CATACLYSM!
+094000011860|DatBase|A|180,000|Y|90|Hanzo Shimada|I AM THE CATACLYSM!
+094100008540|Algorithm|A|240,000|Y|60|Deathwing|None escape their shadow.
+094200017532|DatBase|A|920,000|N|30|Genji Shimada|INDOMITABLE
+094300029986|File Structure|A|290,000|N|30|Genji Shimada|I AM DEATHWING
+094400002736|Embeded Software Programming|A|930,000|N|90|Genji Shimada|I AM DEATHWING
+094500025342|Graphics|D|130,000|N|60|Artanis|I AM DEATHWING
+094600016084|Embeded Software Programming|A|440,000|N|30|Artanis|THE DESTROYER
+094700028272|Assembly Language|B|80,000|Y|90|Maiev|INDOMITABLE
+094800019974|Computer Architechure|D|200,000|Y|90|Zeratul| INEVITABLE
+094900004667|Embeded Software Programming|A|810,000|N|30|Hanzo Shimada|None escape their shadow.
+095000025769|C Programing|B|920,000|Y|90|Ragnaros|I AM THE CATACLYSM!
+095100020574|DatBase|A|730,000|N|90|Hanzo Shimada|None escape their shadow.
+095200032349|Computer Architechure|D|110,000|Y|30|Maiev|THE END OF ALL THINGS
+095300016923|Gososil|D|580,000|N|90|Ragnaros| INEVITABLE
+095400030211|Graphics|C|760,000|N|30|Zeratul|THE DESTROYER
+095500010227|Embeded Software Programming|C|320,000|Y|90|Deathwing| INEVITABLE
+095600005565|Embeded Software Programming|D|300,000|N|90|Artanis|I AM THE CATACLYSM!
+095700031143|Assembly Language|B|250,000|N|60|Alarak|My life for Aiur.
+095800009963|Gososil|D|870,000|N|90|Deathwing|None escape their shadow.
+095900030264|Assembly Language|B|770,000|N|90|Ana Amari|I AM THE CATACLYSM!
+096000000559|Gososil|D|280,000|Y|30|Ragnaros|None escape their shadow.
+096100013286|File Structure|A|170,000|N|60|Genji Shimada|THE END OF ALL THINGS
+096200008040|Data Structure|A|30,000|Y|30|Zeratul|My life for Aiur.
+096300012339|Computer Architechure|C|190,000|N|60|Artanis|My life for Aiur.
+096400009657|Gososil|D|470,000|N|90|Genji Shimada|None escape their shadow.
+096500024545|File Structure|B|600,000|Y|30|Ragnaros|My life for Aiur.
+096600031619|Graphics|B|220,000|N|60|Deathwing|None escape their shadow.
+096700016110|Graphics|C|920,000|N|30|Deathwing|Double A
+096800022118|Computer Architechure|D|410,000|Y|60|Alarak|THE DESTROYER
+096900024734|Algorithm|B|600,000|Y|90|Ragnaros|Milk
+097000019267|Embeded Software Programming|D|970,000|Y|60|Ragnaros|Double A
+097100032625|C Programing|D|460,000|N|60|Genji Shimada|Double A
+097200024123|Algorithm|A|230,000|Y|90|Alarak|I AM DEATHWING
+097300003367|DatBase|C|140,000|Y|60|Ana Amari|THE DESTROYER
+097400004784|Data Structure|A|960,000|Y|30|Alarak|I AM THE CATACLYSM!
+097500017090|Gososil|D|860,000|N|30|Medivh|INDOMITABLE
+097600031554|File Structure|A|560,000|Y|30|Zeratul|INDOMITABLE
+097700012420|File Structure|C|340,000|N|30|Deathwing|THE END OF ALL THINGS
+097800018898|Assembly Language|B|780,000|N|60|Medivh|Milk
+097900019947|C Programing|A|400,000|Y|90|Artanis|INDOMITABLE
+098000024450|Data Structure|A|260,000|Y|30|Medivh| INEVITABLE
+098100002491|DatBase|D|240,000|Y|60|Ragnaros|INDOMITABLE
+098200023730|Assembly Language|C|210,000|Y|90|Genji Shimada|None escape their shadow.
+098300023028|Algorithm|A|150,000|Y|30|Alarak|My life for Aiur.
+098400012547|Algorithm|B|350,000|Y|90|Ragnaros|I AM DEATHWING
+098500019414|File Structure|D|710,000|Y|60|Alarak|THE END OF ALL THINGS
+098600011095|File Structure|A|870,000|Y|30|Maiev|I AM THE CATACLYSM!
+098700005091|DatBase|B|450,000|Y|60|Genji Shimada|INDOMITABLE
+098800002510|Algorithm|B|400,000|N|90|Zeratul|I AM DEATHWING
+098900007644|File Structure|A|170,000|Y|60|Ragnaros|Double A
+099000002505|Embeded Software Programming|B|610,000|Y|90|Medivh|INDOMITABLE
+099100007362|Computer Architechure|B|480,000|N|60|Hanzo Shimada|THE DESTROYER
+099200030698|DatBase|C|850,000|N|60|Artanis|I AM DEATHWING
+099300006870|Embeded Software Programming|A|200,000|N|30|Medivh|INDOMITABLE
+099400016401|DatBase|D|790,000|N|90|Hanzo Shimada|THE DESTROYER
+099500002456|File Structure|D|250,000|Y|60|Ana Amari|INDOMITABLE
+099600032095|Algorithm|C|660,000|N|60|Alarak| INEVITABLE
+099700020939|Graphics|C|970,000|N|90|Hanzo Shimada|None escape their shadow.
+099800002614|Embeded Software Programming|A|960,000|Y|90|Artanis|THE END OF ALL THINGS
+099900025454|Assembly Language|D|360,000|Y|90|Genji Shimada|INDOMITABLE
