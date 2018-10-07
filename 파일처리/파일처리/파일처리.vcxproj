@@ -150,9 +150,11 @@
     <ClCompile Include="delim.cpp" />
     <ClCompile Include="iobuffer.cpp" />
     <ClCompile Include="Lecture.cpp" />
+    <ClCompile Include="LecturePurchaseSystem.cpp" />
     <ClCompile Include="Member.cpp" />
+    <ClCompile Include="Recordtest.cpp" />
     <ClCompile Include="Purchase.cpp" />
-    <ClCompile Include="purchasetest.cpp" />
+    <ClCompile Include="Showtest.cpp" />
     <ClCompile Include="student.cpp" />
     <ClCompile Include="varlen.cpp" />
   </ItemGroup>
@@ -162,10 +164,15 @@
     <ClInclude Include="iobuffer.h" />
     <ClInclude Include="Lecture.h" />
     <ClInclude Include="member.h" />
+    <ClInclude Include="program.h" />
     <ClInclude Include="Purchase.h" />
     <ClInclude Include="recfile.h" />
     <ClInclude Include="Student.h" />
     <ClInclude Include="varlen.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fileOfLecture.dat" />
+    <None Include="fileOfPurchase.dat" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

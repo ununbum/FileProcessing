@@ -47,13 +47,19 @@
     <ClCompile Include="Purchase.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="purchasetest.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="student.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="varlen.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LecturePurchaseSystem.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Recordtest.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Showtest.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
@@ -85,5 +91,16 @@
     <ClInclude Include="varlen.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="program.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fileOfLecture.dat">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="fileOfPurchase.dat">
+      <Filter>리소스 파일</Filter>
+    </None>
   </ItemGroup>
 </Project>

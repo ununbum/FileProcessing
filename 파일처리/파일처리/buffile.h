@@ -13,7 +13,7 @@
 #define TRUE (1)
 #endif
 
-class BufferFile 
+class BufferFile
 // Class to represent buffered file operations
 // 	Used in conjunction with the IOBuffer classes 
 // Each buffered file is associated with a disk file of a specific
@@ -41,7 +41,7 @@ class BufferFile
 		// if recaddr != -1, read the record at that address
 	int Write (int recaddr = -1); // write the current buffer contents
 	int Append (); // write the current buffer at the end of file
-
+	int Delete(int recaddr);
 	// Access to IOBuffer
 	IOBuffer & GetBuffer ();
 

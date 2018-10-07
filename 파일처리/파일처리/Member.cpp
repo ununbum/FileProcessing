@@ -136,7 +136,7 @@ ostream & operator << (ostream &os, Member &m)
 	cout << "NAME : " << m.name << endl;
 	cout << "NUMBER : " << m.phone_number << endl;
 	cout << "ADDRESS : " << m.address << endl;
-	cout << "ADDRESS : ";
+	cout << "MILEAGE : ";
 	for (int i = 0; i<10; i++)
 		cout << m.mileage[i];
 	cout << endl << endl;

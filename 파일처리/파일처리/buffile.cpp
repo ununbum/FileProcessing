@@ -84,6 +84,11 @@ int BufferFile::Append ()
 	File . seekp (0, ios::end);
 	return Buffer . Write (File);
 }
+int BufferFile::Delete(int recaddr)
+// write the current buffer at the end of File
+{
+	return Buffer.DWrite(File,recaddr);
+}
 
 // Access to IOBuffer
 IOBuffer & BufferFile::GetBuffer ()
