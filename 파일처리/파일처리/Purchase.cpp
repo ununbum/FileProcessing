@@ -1,4 +1,6 @@
 #include "Purchase.h"
+#include "member.h"
+#include "Lecture.h"
 #include <sstream>
 
 
@@ -28,21 +30,42 @@ Purchase & Purchase::operator = (const Purchase &m)
 }
 bool Purchase::operator == (const Purchase &m)
 {
-	if (this->id == m.id && this->member == m.member && this->lecture == m.lecture && this->mileage == m.mileage)
+	int i;
+	for (i = 0; i < 16; i++) {
+		if (this->id[i] != m.id[i])
+			return false;
+	}
+	return true;
+}
+bool Purchase::operator == (const Member &m)
+{
+	Member mcmp = m;
+	if (this->member == mcmp.get_id())
 		return true;
 	else
 		return false;
+}
+bool Purchase::operator == (const Lecture &m)
+{
+	int i;
+	Lecture l = m;
+	for (i = 0; i < 12; i++) {
+		if (this->id[i] != l.get_id()[i])
+			return false;
+	}
+	return true;
 }
 bool Purchase::operator != (const Purchase &m)
 {
-	if (this->id == m.id && this->member == m.member && this->lecture == m.lecture && this->mileage == m.mileage)
-		return false;
-	else
-		return true;
+	int i;
+	for (i = 0; i < 16; i++) {
+		if (this->id[i] != m.id[i])
+			return true;
+	}
+	return false;
 }
 bool Purchase::Pack(IOBuffer & Buffer) const {
 	int numBytes;
-	char buf[256];
 	Buffer.Clear();
 
 	string s_id(id, 16);

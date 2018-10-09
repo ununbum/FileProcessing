@@ -40,7 +40,8 @@ class IOBuffer
 	// these header operations return the number of bytes in the header
 	virtual int ReadHeader (istream &); // write a buffer to the stream
 	virtual int WriteHeader (ostream &) const; // write a buffer to the stream
-
+	virtual int ReadSize(istream &, int recaddr);
+	virtual int Update(ostream &,int recref, int prev_size) const = 0;
  protected:
 	int Initialized; // TRUE if buffer is initialized
 	char * Buffer; // character array to hold field values

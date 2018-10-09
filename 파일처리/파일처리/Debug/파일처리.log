@@ -1,3 +1,0 @@
-﻿  Member.cpp
-c:\users\김승현\documents\visual studio 2017\projects\파일처리\파일처리\member.cpp(87): warning C4101: 'buf' :참조되지 않은 지역 변수입니다.
-  파일처리.vcxproj -> C:\Users\김승현\Documents\Visual Studio 2017\Projects\파일처리\Debug\파일처리.exe

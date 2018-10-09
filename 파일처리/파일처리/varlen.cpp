@@ -50,7 +50,35 @@ int VariableLengthBuffer :: Write (ostream & stream) const
 	if (! stream . good ()) return -1;
 	return recaddr;
 }
+int VariableLengthBuffer::Update(ostream & stream,int recref,int prev_size) const
+// write the length and buffer into the stream
+{
+	int i;
 
+	if (prev_size >= BufferSize)
+	{
+		stream.seekp(recref, ios::beg);
+		stream.write((char *)&prev_size, sizeof(unsigned short));
+
+		for (i = 0; i < prev_size - BufferSize; i++)
+			Buffer[BufferSize+i] = '|';
+		if (!stream) return -1;
+		stream.write(Buffer, prev_size);
+		if (!stream.good()) return -1;
+	}
+	else
+	{
+
+		stream.seekp(0, ios::end);
+		unsigned short bufferSize;
+		bufferSize = BufferSize;
+		stream.write((char *)&bufferSize, sizeof(bufferSize));
+		if (!stream) return -1;
+		stream.write(Buffer, BufferSize);
+		if (!stream.good()) return -1;
+	}
+	return recref;
+}
 const char * headerStr = "Variable";
 //const int headerSize = strlen (headerStr);
 const int headerSize = 8;

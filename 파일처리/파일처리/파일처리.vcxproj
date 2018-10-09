@@ -18,6 +18,42 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="buffile.cpp" />
+    <ClCompile Include="Delete.cpp" />
+    <ClCompile Include="delim.cpp" />
+    <ClCompile Include="Insert.cpp" />
+    <ClCompile Include="iobuffer.cpp" />
+    <ClCompile Include="Lecture.cpp" />
+    <ClCompile Include="LecturePurchaseSystem.cpp" />
+    <ClCompile Include="Member.cpp" />
+    <ClCompile Include="Purchase.cpp" />
+    <ClCompile Include="Recordtest.cpp" />
+    <ClCompile Include="Search.cpp" />
+    <ClCompile Include="Showtest.cpp" />
+    <ClCompile Include="Update.cpp" />
+    <ClCompile Include="varlen.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="buffile.h" />
+    <ClInclude Include="delim.h" />
+    <ClInclude Include="iobuffer.h" />
+    <ClInclude Include="Lecture.h" />
+    <ClInclude Include="member.h" />
+    <ClInclude Include="program.h" />
+    <ClInclude Include="Purchase.h" />
+    <ClInclude Include="varlen.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fileOfLecture.dat" />
+    <None Include="fileOfMember.dat" />
+    <None Include="fileOfPurchase.dat" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="listOfLecture.txt" />
+    <Text Include="listOfMember.txt" />
+    <Text Include="listOfPurchase.txt" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{EF2DD6E8-CEC1-4597-B3C9-1CE7DD1466ED}</ProjectGuid>
@@ -139,41 +175,6 @@
       <SubSystem>Console</SubSystem>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <Text Include="listOfLecture.txt" />
-    <Text Include="listOfMember.txt" />
-    <Text Include="listOfPurchase.txt" />
-    <Text Include="listOfStudent.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="buffile.cpp" />
-    <ClCompile Include="delim.cpp" />
-    <ClCompile Include="iobuffer.cpp" />
-    <ClCompile Include="Lecture.cpp" />
-    <ClCompile Include="LecturePurchaseSystem.cpp" />
-    <ClCompile Include="Member.cpp" />
-    <ClCompile Include="Recordtest.cpp" />
-    <ClCompile Include="Purchase.cpp" />
-    <ClCompile Include="Showtest.cpp" />
-    <ClCompile Include="student.cpp" />
-    <ClCompile Include="varlen.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="buffile.h" />
-    <ClInclude Include="delim.h" />
-    <ClInclude Include="iobuffer.h" />
-    <ClInclude Include="Lecture.h" />
-    <ClInclude Include="member.h" />
-    <ClInclude Include="program.h" />
-    <ClInclude Include="Purchase.h" />
-    <ClInclude Include="recfile.h" />
-    <ClInclude Include="Student.h" />
-    <ClInclude Include="varlen.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="fileOfLecture.dat" />
-    <None Include="fileOfPurchase.dat" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

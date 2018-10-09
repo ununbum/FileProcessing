@@ -1,3 +1,5 @@
+#ifndef MEMBER_H
+#define MEMBER_H
 #include <iostream>
 #include <string>
 #include "delim.h"
@@ -32,7 +34,9 @@ public:
 	void update_number(const string new_number) { phone_number =new_number; }
 	void update_address(const string new_address) { address = new_address; }
 	void update_mileage(const char* new_mileage) { memcpy(mileage,new_mileage,10); }
+	string get_id() { return member_id; }
 };
 
 istream & operator >> (istream &is, Member &m);
 ostream & operator << (ostream &os, Member &m);
+#endif

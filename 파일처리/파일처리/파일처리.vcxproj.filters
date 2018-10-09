@@ -13,54 +13,55 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="listOfStudent.txt">
-      <Filter>리소스 파일</Filter>
-    </Text>
-    <Text Include="listOfLecture.txt">
-      <Filter>리소스 파일</Filter>
-    </Text>
-    <Text Include="listOfMember.txt">
-      <Filter>리소스 파일</Filter>
-    </Text>
-    <Text Include="listOfPurchase.txt">
-      <Filter>리소스 파일</Filter>
-    </Text>
+    <Filter Include="소스 파일\Buffer">
+      <UniqueIdentifier>{8d6cf8ac-f144-4171-bb02-8bb6bdc3d5a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\program">
+      <UniqueIdentifier>{b9b3e573-f3b9-428f-854a-71378fb7f0cb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="buffile.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Buffer</Filter>
     </ClCompile>
     <ClCompile Include="delim.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Buffer</Filter>
     </ClCompile>
     <ClCompile Include="iobuffer.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Buffer</Filter>
     </ClCompile>
     <ClCompile Include="Lecture.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Buffer</Filter>
     </ClCompile>
     <ClCompile Include="Member.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Buffer</Filter>
     </ClCompile>
     <ClCompile Include="Purchase.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="student.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Buffer</Filter>
     </ClCompile>
     <ClCompile Include="varlen.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Buffer</Filter>
     </ClCompile>
     <ClCompile Include="LecturePurchaseSystem.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\program</Filter>
     </ClCompile>
     <ClCompile Include="Recordtest.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\program</Filter>
     </ClCompile>
     <ClCompile Include="Showtest.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\program</Filter>
+    </ClCompile>
+    <ClCompile Include="Search.cpp">
+      <Filter>소스 파일\program</Filter>
+    </ClCompile>
+    <ClCompile Include="Insert.cpp">
+      <Filter>소스 파일\program</Filter>
+    </ClCompile>
+    <ClCompile Include="Update.cpp">
+      <Filter>소스 파일\program</Filter>
+    </ClCompile>
+    <ClCompile Include="Delete.cpp">
+      <Filter>소스 파일\program</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -79,19 +80,13 @@
     <ClInclude Include="member.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="program.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
     <ClInclude Include="Purchase.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="recfile.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Student.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
     <ClInclude Include="varlen.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="program.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
@@ -99,8 +94,22 @@
     <None Include="fileOfLecture.dat">
       <Filter>리소스 파일</Filter>
     </None>
+    <None Include="fileOfMember.dat">
+      <Filter>리소스 파일</Filter>
+    </None>
     <None Include="fileOfPurchase.dat">
       <Filter>리소스 파일</Filter>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="listOfLecture.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="listOfMember.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="listOfPurchase.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
   </ItemGroup>
 </Project>

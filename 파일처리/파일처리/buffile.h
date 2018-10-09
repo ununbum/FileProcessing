@@ -41,7 +41,9 @@ class BufferFile
 		// if recaddr != -1, read the record at that address
 	int Write (int recaddr = -1); // write the current buffer contents
 	int Append (); // write the current buffer at the end of file
-	int Delete(int recaddr);
+	int Update(int recaddr,int prev_size);
+	int ReadSize(int recaddr);
+
 	// Access to IOBuffer
 	IOBuffer & GetBuffer ();
 

@@ -18,8 +18,10 @@ class VariableLengthBuffer: public IOBuffer
 	void Clear (); // clear fields from buffer
 	int Read (istream &);
 	int Write (ostream &) const;
+	int Update(ostream &,int recref,int prev_size) const;
 	int ReadHeader (istream &); // write a buffer to the stream
 	int WriteHeader (ostream &) const; // write a buffer to the stream
+	
 	int PackFixLen (void *, int);
 	int PackDelimeted (void *, int);
 	int PackLength (void *, int);

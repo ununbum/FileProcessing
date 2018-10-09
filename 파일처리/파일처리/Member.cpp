@@ -33,14 +33,14 @@ Member & Member::operator = (const Member &m)
 }
 bool Member::operator == (const Member &m)
 {
-	if (this->member_id == m.member_id && this->password == m.password && this->name == m.name && this->phone_number == m.phone_number && this->address == m.address && this->mileage == m.mileage)
+	if (this->member_id == m.member_id)
 		return true;
 	else
 		return false;
 }
 bool Member::operator != (const Member &m)
 {
-	if (this->member_id != m.member_id && this->password != m.password && this->name != m.name && this->phone_number != m.phone_number && this->address != m.address && this->mileage != m.mileage)
+	if (this->member_id != m.member_id )
 		return false;
 	else
 		return true;
