@@ -18,7 +18,7 @@ Member::Member(const Member & m)
 	update_number(m.phone_number);
 	update_address(m.address);
 	update_mileage(m.mileage);
-
+	level = m.level;
 }
 Member & Member::operator = (const Member &m)
 {
@@ -28,19 +28,19 @@ Member & Member::operator = (const Member &m)
 	update_number(m.phone_number);
 	update_address(m.address);
 	update_mileage(m.mileage);
-
+	update_level(m.level);
 	return *this;
 }
 bool Member::operator == (const Member &m)
 {
-	if (this->member_id == m.member_id && this->password == m.password && this->name == m.name && this->phone_number == m.phone_number && this->address == m.address && this->mileage == m.mileage)
+	if (this->member_id == m.member_id)
 		return true;
 	else
 		return false;
 }
 bool Member::operator != (const Member &m)
 {
-	if (this->member_id != m.member_id && this->password != m.password && this->name != m.name && this->phone_number != m.phone_number && this->address != m.address && this->mileage != m.mileage)
+	if (this->member_id != m.member_id )
 		return false;
 	else
 		return true;
@@ -88,7 +88,7 @@ bool Member::Pack(IOBuffer & Buffer) const {
 	Buffer.Clear();
 
 	string s_mile(mileage, 10);
-
+	string s_level = to_string(level);
 	numBytes = Buffer.Pack(member_id.c_str());
 	if (numBytes == -1) return false;
 	numBytes = Buffer.Pack(password.c_str());
@@ -101,7 +101,8 @@ bool Member::Pack(IOBuffer & Buffer) const {
 	if (numBytes == -1) return false;
 	numBytes = Buffer.Pack(s_mile.c_str());
 	if (numBytes == -1) return false;
-
+	numBytes = Buffer.Pack(s_level.c_str());
+	if (numBytes == -1) return false;
 	return true;
 }
 bool Member::Unpack(IOBuffer & Buffer) {
@@ -126,6 +127,9 @@ bool Member::Unpack(IOBuffer & Buffer) {
 	address = buf;
 	numBytes = Buffer.Unpack(mileage,10);
 	if (numBytes == -1) return false;
+	numBytes = Buffer.Unpack(buf);
+	level = atoi(buf);
+	if (numBytes == -1) return false;
 
 	return true;
 }
@@ -136,7 +140,7 @@ ostream & operator << (ostream &os, Member &m)
 	cout << "NAME : " << m.name << endl;
 	cout << "NUMBER : " << m.phone_number << endl;
 	cout << "ADDRESS : " << m.address << endl;
-	cout << "ADDRESS : ";
+	cout << "MILEAGE : ";
 	for (int i = 0; i<10; i++)
 		cout << m.mileage[i];
 	cout << endl << endl;

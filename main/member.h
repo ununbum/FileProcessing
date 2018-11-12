@@ -1,3 +1,5 @@
+#ifndef MEMBER_H
+#define MEMBER_H
 #include <iostream>
 #include <string>
 #include "delim.h"
@@ -13,6 +15,7 @@ class Member {
 	string phone_number;
 	string address;
 	char mileage[10];
+	int level;
 public:
 	Member();
 	Member(const string new_id);
@@ -32,7 +35,16 @@ public:
 	void update_number(const string new_number) { phone_number =new_number; }
 	void update_address(const string new_address) { address = new_address; }
 	void update_mileage(const char* new_mileage) { memcpy(mileage,new_mileage,10); }
+	void update_level(int new_level) { level = new_level; }
+	bool check_password(const string in_pass) {
+		if (in_pass == password)
+			return true;
+		return false; 
+	}
+	string get_id() { return member_id; }
+	int get_level() { return level; }
 };
 
 istream & operator >> (istream &is, Member &m);
 ostream & operator << (ostream &os, Member &m);
+#endif

@@ -79,4 +79,17 @@ int IOBuffer::WriteHeader (ostream & stream) const
 	if (! stream . good ()) return -1;
 	return headerSize;
 }
+int IOBuffer::ReadSize(istream & stream, int recaddr)
+{
+	int tmp;
+	if (stream.eof()) return -1;
+	stream.seekg(recaddr, ios::beg);
+	tmp = (int)stream.tellg();
+	if (tmp != recaddr) return -1;
+	unsigned short bufferSize;
+	stream.read((char *)&bufferSize, sizeof(bufferSize));
+	if (!stream.good()) { stream.clear(); return -1; }
+	BufferSize = bufferSize;
+	return BufferSize;
+}
 

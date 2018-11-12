@@ -1,8 +1,11 @@
+#ifndef PURCHASE_H
+#define PURCHASE_H
 #include <iostream>
 #include <string>
+#include "member.h"
+#include "Lecture.h"
 #include "delim.h"
 
-#define LENID 16;
 #define LENLEC 12;
 #define LENMILE 10;
 
@@ -21,6 +24,8 @@ public:
 
 	Purchase & operator = (const Purchase &m);
 	bool operator == (const Purchase &m);
+	bool operator ==(const Member &m);
+	bool operator ==(const Lecture &m);
 	bool operator != (const Purchase &m);
 	bool Pack(IOBuffer & Buffer) const;
 	bool Unpack(IOBuffer & Buffer);
@@ -32,7 +37,9 @@ public:
 	void update_member(const string new_member) { member = new_member; }
 	void update_lecture(const char * new_lecture) { memcpy(lecture, new_lecture, 12); }
 	void update_mileage(const char * new_mileage) { memcpy(mileage, new_mileage, 10); }
+	char * get_id() { return id; }
 };
 
 istream & operator >> (istream &is, Purchase &m);
 ostream & operator << (ostream &os, Purchase &m);
+#endif

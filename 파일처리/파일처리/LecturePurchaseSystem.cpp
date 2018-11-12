@@ -3,7 +3,6 @@
 using namespace std;
 int main()
 {
-
 	while (1) {
 		int menu;
 		int data;
@@ -132,18 +131,21 @@ void insert(int data)
 
 	switch (data) {
 	case 1:
+		cout << endl;
 		if (InsertMember(getMember()))
 			cout << "Insert Sucessfully!" << endl;
 		else
 			cout << "Insert fail" << endl;
 		break;
 	case 2:
+		cout << endl;
 		if (InsertLecture(getLecture()))
 			cout << "Insert Sucessfully!" << endl;
 		else
 			cout << "Insert fail" << endl;
 		break;
 	case 3:
+		cout << endl;
 		if (InsertPurchase(getPurchase()))
 			cout << "Insert Sucessfully!" << endl;
 		else
@@ -162,16 +164,28 @@ void delete_data(int data)
 	cin >> ID;
 	switch (data) {
 	case 1:
+		cout << endl;
 		m = SearchMember(ID, &recaddr);
-		DeleteMember(m, recaddr);
+		if (DeleteMember(m, recaddr))
+			cout << "Delete Sucessfully" << endl;
+		else
+			cout << "Delete Fail" << endl;
 		break;
 	case 2:
+		cout << endl;
 		l = SearchLecture(ID, &recaddr);
-		DeleteLecture(l, recaddr);
+		if(DeleteLecture(l, recaddr))
+			cout << "Delete Sucessfully" << endl;
+		else
+			cout << "Delete Fail" << endl;
 		break;
 	case 3:
+		cout << endl;
 		p = SearchPurchase(ID, &recaddr);
-		DeletePurchase(p, recaddr);
+		if(DeletePurchase(p, recaddr))
+			cout << "Delete Sucessfully" << endl;
+		else
+			cout << "Delete Fail" << endl;
 		break;
 	}
 }
@@ -186,16 +200,28 @@ void update_data(int data)
 	cin >> ID;
 	switch (data) {
 	case 1:
+		cout << endl;
 		m = SearchMember(ID, &recaddr);
-		UpdateMember(m, recaddr);
+		if(UpdateMember(m, recaddr))
+			cout << "Delete Sucessfully" << endl;
+		else
+			cout << "Delete Fail" << endl;
 		break;
 	case 2:
+		cout << endl;
 		l = SearchLecture(ID, &recaddr);
-		UpdateLecture(l, recaddr);
+		if(UpdateLecture(l, recaddr))
+			cout << "Delete Sucessfully" << endl;
+		else
+			cout << "Delete Fail" << endl;
 		break;
 	case 3:
+		cout << endl;
 		p = SearchPurchase(ID, &recaddr);
-		UpdatePurchase(p, recaddr);
+		if(UpdatePurchase(p, recaddr))
+			cout << "Delete Sucessfully" << endl;
+		else
+			cout << "Delete Fail" << endl;
 		break;
 	}
 }

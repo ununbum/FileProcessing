@@ -8,7 +8,7 @@ BufferFile::BufferFile (IOBuffer & from)
 {
 }
 
-int BufferFile::Open (char * filename, int mode)
+int BufferFile::Open (const char * filename, int mode)
 // open an existing file and check the header
 // a correct header must be on the file
 // use ios::nocreate to ensure that a file exists
@@ -27,7 +27,7 @@ int BufferFile::Open (char * filename, int mode)
 	return File . good();
 }
 
-int BufferFile::Create (char * filename, int mode)
+int BufferFile::Create (const char * filename, int mode)
 // create a new file and write a header on it.
 // use ios::nocreate to ensure that no file exists
 {
@@ -84,7 +84,15 @@ int BufferFile::Append ()
 	File . seekp (0, ios::end);
 	return Buffer . Write (File);
 }
-
+int BufferFile::ReadSize(int recaddr)
+// write the current buffer at the end of File
+{
+	return Buffer.ReadSize(File, recaddr);
+}
+int BufferFile::Update(int recaddr,int prev_size)
+{
+	return Buffer.Update(File,recaddr,prev_size);
+}
 // Access to IOBuffer
 IOBuffer & BufferFile::GetBuffer ()
 { return Buffer;}

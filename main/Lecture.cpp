@@ -36,17 +36,23 @@ Lecture & Lecture::operator = (const Lecture &m)
 }
 bool Lecture::operator == (const Lecture &m)
 {
-	if (this->Lecture_id == m.Lecture_id && this->subject == m.subject && this->Level == m.Level && this->Price == m.Price && this->Extension == m.Extension && this->Due_date == m.Due_date&& this->Name_Of_Teacher == m.Name_Of_Teacher&& this->Textbook == m.Textbook)
-		return true;
-	else
-		return false;
+	int i;
+	for (i = 0; i < 12; i++)
+	{
+		if (this->Lecture_id[i] != m.Lecture_id[i])
+			return false;
+	}
+	return true;
 }
 bool Lecture::operator != (const Lecture &m)
 {
-	if (this->Lecture_id != m.Lecture_id && this->subject != m.subject && this->Level != m.Level && this->Price != m.Price && this->Extension != m.Extension && this->Due_date != m.Due_date&& this->Name_Of_Teacher != m.Name_Of_Teacher&& this->Textbook != m.Textbook)
-		return false;
-	else
-		return true;
+	int i;
+	for (i = 0; i < 12; i++)
+	{
+		if (this->Lecture_id[i] != m.Lecture_id[i])
+			return true;
+	}
+	return false;
 }
 bool Lecture::Pack(IOBuffer & Buffer) const {
 	int numBytes;

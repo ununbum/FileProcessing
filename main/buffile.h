@@ -13,7 +13,7 @@
 #define TRUE (1)
 #endif
 
-class BufferFile 
+class BufferFile
 // Class to represent buffered file operations
 // 	Used in conjunction with the IOBuffer classes 
 // Each buffered file is associated with a disk file of a specific
@@ -28,8 +28,8 @@ class BufferFile
    public:
 	BufferFile (IOBuffer &); // create with a buffer
 
-	int Open (char * filename, int MODE); // open an existing file
-	int Create (char * filename, int MODE); // create a new file
+	int Open (const char * filename, int MODE); // open an existing file
+	int Create (const char * filename, int MODE); // create a new file
 	int Close ();
 	int Rewind (); // reset to the first data record
 	// Input and Output operations
@@ -41,6 +41,8 @@ class BufferFile
 		// if recaddr != -1, read the record at that address
 	int Write (int recaddr = -1); // write the current buffer contents
 	int Append (); // write the current buffer at the end of file
+	int Update(int recaddr,int prev_size);
+	int ReadSize(int recaddr);
 
 	// Access to IOBuffer
 	IOBuffer & GetBuffer ();

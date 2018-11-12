@@ -1,3 +1,5 @@
+#ifndef LECTURE_H
+#define LECTURE_H
 #include <iostream>
 #include <string>
 #include "delim.h"
@@ -36,7 +38,9 @@ public:
 	void update_due(const int new_due) { Due_date = new_due; }
 	void update_teacher(const string new_teacher) { Name_Of_Teacher = new_teacher; }
 	void update_textbook(const string new_book) { Textbook = new_book; }
+	char * get_id(void ) { return Lecture_id; }
 };
 
 istream & operator >> (istream &is, Lecture &m);
 ostream & operator << (ostream &os, Lecture &m);
+#endif
