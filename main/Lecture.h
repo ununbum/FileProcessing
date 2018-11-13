@@ -17,6 +17,7 @@ class Lecture {
 	int Due_date;
 	string Name_Of_Teacher;
 	string Textbook;
+	string key;
 public:
 	Lecture();
 	Lecture(const char *new_id);
@@ -39,6 +40,10 @@ public:
 	void update_teacher(const string new_teacher) { Name_Of_Teacher = new_teacher; }
 	void update_textbook(const string new_book) { Textbook = new_book; }
 	char * get_id(void ) { return Lecture_id; }
+	char * Key() {
+		key.assign(Lecture_id, 12);
+		return (char *)(key.c_str());
+	}
 };
 
 istream & operator >> (istream &is, Lecture &m);

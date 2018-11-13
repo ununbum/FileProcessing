@@ -84,7 +84,6 @@ istream & operator >> (istream &is, Member &m)
 }
 bool Member::Pack(IOBuffer & Buffer) const {
 	int numBytes;
-	char buf[256];
 	Buffer.Clear();
 
 	string s_mile(mileage, 10);
@@ -132,6 +131,12 @@ bool Member::Unpack(IOBuffer & Buffer) {
 	if (numBytes == -1) return false;
 
 	return true;
+}
+char * Member::Key() {
+	char tmp[10];
+	strncpy(tmp, member_id.c_str(), 10);
+	key = string(tmp);
+	return (char *)(key.c_str());
 }
 ostream & operator << (ostream &os, Member &m)
 {

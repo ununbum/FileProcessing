@@ -18,9 +18,9 @@ int membertest()
 
 	DelimFieldBuffer buffer('|', 256);
 	RecordFile <Member> StudentFile(buffer);
-
+	
 	// Write test
-	StudentFile.Create("fileOfMember.dat", ios::out | ios::trunc);
+	StudentFile.Create("fileOfMember.dat", ios::in | ios::out | ios::trunc);
 	Member s;
 	//test user pack
 	s.update_id("TestUser");
@@ -45,18 +45,11 @@ int membertest()
 			cout << "Write Error!" << endl;
 
 	}
+	
+
+	
 	StudentFile.Close();
 
-
-	// Read test
-	StudentFile.Open("fileOfMember.dat", ios::in);
-	for (int i = 0; i < 11; i++) {
-		Member s;
-		StudentFile.Read(s);
-		if (i != 1)
-			cout << s;
-	}
-	StudentFile.Close();
 
 	return 0;
 }
@@ -121,7 +114,7 @@ int lecturetest()
 
 	DelimFieldBuffer buffer('|', 256);
 	RecordFile <Lecture> StudentFile(buffer);
-
+	TextIndex LectureIndex(2000);
 	// Write test
 	StudentFile.Create("fileOfLecture.dat", ios::out | ios::trunc);
 	for (int i = 0; i < n; i++) {

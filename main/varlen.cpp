@@ -68,8 +68,8 @@ int VariableLengthBuffer::Update(ostream & stream,int recref,int prev_size) cons
 	}
 	else
 	{
-
 		stream.seekp(0, ios::end);
+		recref = (int)stream.tellp();
 		unsigned short bufferSize;
 		bufferSize = BufferSize;
 		stream.write((char *)&bufferSize, sizeof(bufferSize));

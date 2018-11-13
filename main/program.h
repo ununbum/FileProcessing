@@ -5,11 +5,17 @@
 #include "Purchase.h"
 #include "recfile.h"
 #include "delim.h"
+#include "fixfld.h"
+#include "indfile.h"
+#include "textind.h"
+#include "tindbuff.h"
 #include <iostream>
 #include <string>
 #include <fstream>
 #include <queue>
 
+void make_index_member();
+void make_index_lecture();
 void show(int data);
 void make(int data);
 void search_data(int data);
@@ -27,9 +33,11 @@ int ShowMember();
 int ShowLecture();
 int ShowPurchase();
 
-
+/*
 Member SearchMember(const char * MID,int * recaddr);
-Lecture SearchLecture(const char * LID, int * recaddr);
+Lecture SearchLecture(const char * LID, int * recaddr);*/
+template <class RecType>
+RecType Search(TextIndexedFile<Member> StdIdxedFile, const char * MID, int * recaddr);
 Purchase SearchPurchase(const char * PID, int * recaddr);
 Purchase SearchPurchase_by_memid(const char * PID, int * recaddr);
 Purchase SearchPurchase_by_lecid(const char * LID, int *recaddr);
@@ -45,7 +53,7 @@ void DeletePurchase_by_memid(Member m);
 void DeletePurchase_by_lecid(Lecture m);
 
 int UpdateMember(Member  m,int recaddr,int flag);
-int UpdateLecture(Lecture  l, int recaddr);
+int UpdateLecture(Lecture  l, int recaddr,int flag);
 int UpdatePurchase(Purchase  p, int recaddr,int flag);
 
 

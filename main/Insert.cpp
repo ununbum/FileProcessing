@@ -10,7 +10,7 @@ int InsertMember(Member  m)
 	RecordFile <Member> MemberFile(buffer);
 	MemberFile.Open("fileOfMember.dat", ios::out);
 	min = m;
-	SearchMember(tmp.c_str(), &recaddr);
+//	SearchMember(tmp.c_str(), &recaddr);
 	if (recaddr != -1)
 		return 0;
 	return MemberFile.Append(m);
@@ -23,7 +23,7 @@ int InsertLecture(Lecture  l)
 	RecordFile <Lecture> LectureFile(buffer);
 	LectureFile.Open("fileOfLecture.dat", ios::out);
 	lin = l;
-	SearchLecture(l.get_id(), &recaddr);
+//	SearchLecture(l.get_id(), &recaddr);
 	if (recaddr != -1)
 		return 0;
 	return LectureFile.Append(l);
@@ -36,7 +36,7 @@ int InsertPurchase(Purchase  p)
 	RecordFile <Purchase> PurchaseFile(buffer);
 	PurchaseFile.Open("fileOfPurchase.dat", ios::out);
 	pin = p;
-	SearchLecture(p.get_id(), &recaddr);
+//	SearchLecture(p.get_id(), &recaddr);
 	if (recaddr != -1)
 		return 0;
 	return PurchaseFile.Append(p);

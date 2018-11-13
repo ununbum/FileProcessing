@@ -42,6 +42,8 @@ class BufferFile
 	int Write (int recaddr = -1); // write the current buffer contents
 	int Append (); // write the current buffer at the end of file
 	int Update(int recaddr,int prev_size);
+	int Update(int recaddr);
+	int Delete(int recaddr);
 	int ReadSize(int recaddr);
 
 	// Access to IOBuffer

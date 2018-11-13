@@ -16,6 +16,7 @@ class Member {
 	string address;
 	char mileage[10];
 	int level;
+	string key;
 public:
 	Member();
 	Member(const string new_id);
@@ -43,6 +44,7 @@ public:
 	}
 	string get_id() { return member_id; }
 	int get_level() { return level; }
+	char * Key();
 };
 
 istream & operator >> (istream &is, Member &m);

@@ -93,6 +93,15 @@ int BufferFile::Update(int recaddr,int prev_size)
 {
 	return Buffer.Update(File,recaddr,prev_size);
 }
+/*
+int BufferFile::Update(int recaddr)
+{
+	return Buffer.Update(File, recadd);
+}
+int BufferFile::Delete(int recaddr)
+{
+	return Buffer.Update(File, recaddr,);
+}*/
 // Access to IOBuffer
 IOBuffer & BufferFile::GetBuffer ()
 { return Buffer;}

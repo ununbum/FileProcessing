@@ -42,7 +42,7 @@ class IOBuffer
 	virtual int WriteHeader (ostream &) const; // write a buffer to the stream
 	virtual int ReadSize(istream &, int recaddr);
 	virtual int Update(ostream &,int recref, int prev_size) const = 0;
- protected:
+	//virtual int Update(char * oldKey, RecType & record);
 	int Initialized; // TRUE if buffer is initialized
 	char * Buffer; // character array to hold field values
 	int BufferSize; // sum of the sizes of packed fields

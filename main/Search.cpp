@@ -1,22 +1,13 @@
 #include "program.h"
 
-
-Member SearchMember(const char * MID, int * recaddr)
+template <class RecType>
+RecType Search(TextIndexedFile<Member> StdIdxedFile, const char * MID, int * recaddr)
 {
-	Member m;
-	Member mfind;
-	DelimFieldBuffer buffer('|', 256);
-	RecordFile <Member> MemberFile(buffer);
-	m.update_id(MID);
-	MemberFile.Open("fileOfMember.dat", ios::in);
-	while ((*recaddr = MemberFile.Read(mfind)) != -1) {
-		if (m == mfind)
-		{
-			MemberFile.Close();
-			return mfind;
-		}
-	}
-	return mfind;
+	RecType find;
+	char tmp[10];
+	strncpy(tmp, MID, 10);
+	StdIdxedFile.Read(tmp, find);
+	return find;
 }
 Lecture SearchLecture(const char * LID, int * recaddr)
 {
